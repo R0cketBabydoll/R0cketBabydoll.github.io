@@ -1,0 +1,3729 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Archelf Merrix, Venerated Exile",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Faerie Elf Ranger",
+			"collector_number": "162",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/0_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/0_front.png"
+			}
+		},
+		{
+			"name": "Barzi Olrelm, Voice of the Tribes",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Goblin Knight",
+			"collector_number": "84",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/1_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/1_front.png"
+			}
+		},
+		{
+			"name": "Skrongi, Son of Sjenggr",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Orc Warrior",
+			"collector_number": "156",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/2_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/2_front.png"
+			}
+		},
+		{
+			"name": "Jerri Berrymonger, Town Elder",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Halfling Monger",
+			"collector_number": "13",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/3_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/3_front.png"
+			}
+		},
+		{
+			"name": "Enid Nemina Mac Caveen, Folk Hero",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Gnome Rogue",
+			"collector_number": "50",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/4_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/4_front.png"
+			}
+		},
+		{
+			"name": "Mirkat's Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Goblin Scout",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/5.png"
+			}
+		},
+		{
+			"name": "Norxa's Archer",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Goblin Archer",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/6.png"
+			}
+		},
+		{
+			"name": "Barzi's Shovel-Knight",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Goblin Knight",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/7.png"
+			}
+		},
+		{
+			"name": "Vadro's Avenger",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Goblin Assassin",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/8.png"
+			}
+		},
+		{
+			"name": "Gyvling Archivist",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Goblin",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/9.png"
+			}
+		},
+		{
+			"name": "Fen Scout",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Goblin Scout",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/10.png"
+			}
+		},
+		{
+			"name": "Excavation Specialist",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Goblin",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/11.png"
+			}
+		},
+		{
+			"name": "Dire Wolf Spider",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Spider",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/12.png"
+			}
+		},
+		{
+			"name": "Guardian Earthking",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/13.png"
+			}
+		},
+		{
+			"name": "Fungus Farmer",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Goblin",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/14.png"
+			}
+		},
+		{
+			"name": "Gyvling Dig-Planner",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Goblin Advisor",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/15.png"
+			}
+		},
+		{
+			"name": "Mirkat's Rally-Runner",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Goblin Scout",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/16.png"
+			}
+		},
+		{
+			"name": "Crowmother Cultist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Goblin Cleric",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/17.png"
+			}
+		},
+		{
+			"name": "Norxa's Spider-Rider",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Goblin Knight",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/18.png"
+			}
+		},
+		{
+			"name": "Bloodthirsty Avenger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Creature — Goblin Assassin",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/19.png"
+			}
+		},
+		{
+			"name": "Gyvling War Veteran",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/20.png"
+			}
+		},
+		{
+			"name": "Marauding Auntie",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Goblin Knight",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/21.png"
+			}
+		},
+		{
+			"name": "Barzi's Honor Guard",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Goblin Soldier",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/22.png"
+			}
+		},
+		{
+			"name": "Supernatural Stamina",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/23.png"
+			}
+		},
+		{
+			"name": "Study by Moonlight",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/24.png"
+			}
+		},
+		{
+			"name": "Triumph of the Masses",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/25.png"
+			}
+		},
+		{
+			"name": "Abrupt Senescence",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/26.png"
+			}
+		},
+		{
+			"name": "Fatal Misstep",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/27.png"
+			}
+		},
+		{
+			"name": "Avenge",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/28.png"
+			}
+		},
+		{
+			"name": "Battle Fatigue",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/29.png"
+			}
+		},
+		{
+			"name": "Withering Torment",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/30.png"
+			}
+		},
+		{
+			"name": "Moment of Respite",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/31.png"
+			}
+		},
+		{
+			"name": "Rally the Resistance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/32.png"
+			}
+		},
+		{
+			"name": "Study by Moonlight",
+			"rarity": "masterpiece",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/33.png"
+			}
+		},
+		{
+			"name": "Gyvling Rally-Spear",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/34.png"
+			}
+		},
+		{
+			"name": "Norxa, Gravesworn Champion",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{B}{B}",
+			"type": "Legendary Creature — Goblin Knight",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/35.png"
+			}
+		},
+		{
+			"name": "Shadowfell Edict",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/36.png"
+			}
+		},
+		{
+			"name": "Elspeth, Feather of Two Wings",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Planeswalker — Elspeth",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/37.png"
+			}
+		},
+		{
+			"name": "Elspeth, Feather of Two Wings",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem — Elspeth",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/38.png"
+			}
+		},
+		{
+			"name": "Barzi's Recruitment",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/39.png"
+			}
+		},
+		{
+			"name": "Raider's Ambition",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/40.png"
+			}
+		},
+		{
+			"name": "Unbreakable Bond",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/41.png"
+			}
+		},
+		{
+			"name": "Unbreakable Bond",
+			"rarity": "masterpiece",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/42.png"
+			}
+		},
+		{
+			"name": "Vadro, Cocksure Avenger",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Goblin Assassin",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/43.png"
+			}
+		},
+		{
+			"name": "Herald's Horn",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/44.png"
+			}
+		},
+		{
+			"name": "Bury the Invaders",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/45.png"
+			}
+		},
+		{
+			"name": "Stealth",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/46.png"
+			}
+		},
+		{
+			"name": "Devotion to Death",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/47.png"
+			}
+		},
+		{
+			"name": "Devotion to Death",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/48.png"
+			}
+		},
+		{
+			"name": "Gyvling Warrens",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/49.png"
+			}
+		},
+		{
+			"name": "Comet, Food-Motivated",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Planeswalker — Comet",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/50.png"
+			}
+		},
+		{
+			"name": "Narset, Enlightened Mediator",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Planeswalker — Narset",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/51.png"
+			}
+		},
+		{
+			"name": "Unie Juniper, Timeline Hacker",
+			"rarity": "mythic",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Planeswalker — Unie",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/52.png"
+			}
+		},
+		{
+			"name": "Caveen Kestrelkin",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Gnome Archer",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/53.png"
+			}
+		},
+		{
+			"name": "Curious Philosopher",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Gnome Rogue",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/54.png"
+			}
+		},
+		{
+			"name": "Pixie Namegiver",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Gnome Advisor",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/55.png"
+			}
+		},
+		{
+			"name": "Dambreaker Danny",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/56.png"
+			}
+		},
+		{
+			"name": "Lakeside Fisher",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Gnome Archer",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/57.png"
+			}
+		},
+		{
+			"name": "Froshbruk Haberdasher",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Gnome Druid",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/58.png"
+			}
+		},
+		{
+			"name": "Feeny Badgerkin",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Gnome Ranger",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/59.png"
+			}
+		},
+		{
+			"name": "Food Fight Champion",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Gnome Rogue",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/60.png"
+			}
+		},
+		{
+			"name": "Faerie Mastermind",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/61.png"
+			}
+		},
+		{
+			"name": "Puck Oko Pilgrim, the Mute Prince",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Planeswalker — Oko",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/62.png"
+			}
+		},
+		{
+			"name": "Thirst for Discovery",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/63.png"
+			}
+		},
+		{
+			"name": "Yarberry Shepherd",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Gnome Druid",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/64.png"
+			}
+		},
+		{
+			"name": "Silence, Ancestor",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/65.png"
+			}
+		},
+		{
+			"name": "Invigorating Discovery",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/66.png"
+			}
+		},
+		{
+			"name": "Got It Right",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/67.png"
+			}
+		},
+		{
+			"name": "Yarberry Hedge Witch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Gnome Druid",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/68.png"
+			}
+		},
+		{
+			"name": "Discover a Species",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery — Lesson",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/69.png"
+			}
+		},
+		{
+			"name": "Bottled Lotus",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/70.png"
+			}
+		},
+		{
+			"name": "Time for Soup",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/71.png"
+			}
+		},
+		{
+			"name": "Learn Your Limits",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery — Lesson",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/72.png"
+			}
+		},
+		{
+			"name": "Harsh Lesson",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/73.png"
+			}
+		},
+		{
+			"name": "Bluecap Dreams",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery — Lesson",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/74.png"
+			}
+		},
+		{
+			"name": "Ponder",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/75.png"
+			}
+		},
+		{
+			"name": "Creature Teacher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Gnome Advisor",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/76.png"
+			}
+		},
+		{
+			"name": "Knothole Excavator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Goblin Rogue",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/77.png"
+			}
+		},
+		{
+			"name": "King of the Woad",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Dwarf Druid",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/78.png"
+			}
+		},
+		{
+			"name": "Feeny Ratkin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Gnome Bard",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/79.png"
+			}
+		},
+		{
+			"name": "Wild Magician",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Faerie Gnome",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/80.png"
+			}
+		},
+		{
+			"name": "Swashbuckling Pixie",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Gnome Rogue",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/81.png"
+			}
+		},
+		{
+			"name": "Caveen Raptorkin",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Gnome Ranger",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/82.png"
+			}
+		},
+		{
+			"name": "Knothole Excavator",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Goblin Rogue",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/83.png"
+			}
+		},
+		{
+			"name": "Curious Philosopher",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Gnome Rogue",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/84.png"
+			}
+		},
+		{
+			"name": "Devotion to Curiosity",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/85.png"
+			}
+		},
+		{
+			"name": "Devotion to Curiosity",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/86.png"
+			}
+		},
+		{
+			"name": "Tea Break",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/87.png"
+			}
+		},
+		{
+			"name": "Feywild Transformation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/88.png"
+			}
+		},
+		{
+			"name": "Ancestral Teachings",
+			"rarity": "common",
+			"mana_cost": "{U}{U}{U}{U}",
+			"type": "Sorcery — Lesson",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/89.png"
+			}
+		},
+		{
+			"name": "Shared Curiosity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/90.png"
+			}
+		},
+		{
+			"name": "Puckish Mischief",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/91.png"
+			}
+		},
+		{
+			"name": "Land the Big One",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/92.png"
+			}
+		},
+		{
+			"name": "Maisie Mac Froshbruk, Woad Witch",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Gnome Wizard",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/93.png"
+			}
+		},
+		{
+			"name": "Puck's Attendant",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Gnome",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/94.png"
+			}
+		},
+		{
+			"name": "Mara Ellen Yarberry, Naturalist",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Legendary Creature — Gnome Rogue",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/95.png"
+			}
+		},
+		{
+			"name": "Shattered Sanity",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/96.png"
+			}
+		},
+		{
+			"name": "Pixie Knothole",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/97.png"
+			}
+		},
+		{
+			"name": "Faerie Deserter",
+			"rarity": "common",
+			"mana_cost": "{G}{G}{G}{G}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/98.png"
+			}
+		},
+		{
+			"name": "Disciple of the Inert Court",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Faerie Elf Monk",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/99.png"
+			}
+		},
+		{
+			"name": "Winter Court Stinger",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Faerie Elf Assassin",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/100.png"
+			}
+		},
+		{
+			"name": "Summer Court Storyteller",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Faerie Elf Bard",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/101.png"
+			}
+		},
+		{
+			"name": "Dire Elk",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/102.png"
+			}
+		},
+		{
+			"name": "Autumn Court Archer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Faerie Elf Archer",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/103.png"
+			}
+		},
+		{
+			"name": "Hunting Party",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elf Ranger",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/104.png"
+			}
+		},
+		{
+			"name": "Spring Court Wayfinder",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Faerie Elf Wizard",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/105.png"
+			}
+		},
+		{
+			"name": "Owlbear",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Bird Bear",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/106.png"
+			}
+		},
+		{
+			"name": "Conquering Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Ranger",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/107.png"
+			}
+		},
+		{
+			"name": "Eilav Suncaller",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Faerie Elf Wizard",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/108.png"
+			}
+		},
+		{
+			"name": "Nurturing Couple",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Goblin Gnome",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/109.png"
+			}
+		},
+		{
+			"name": "Devotion to Power",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/110.png"
+			}
+		},
+		{
+			"name": "Devotion to Power",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/111.png"
+			}
+		},
+		{
+			"name": "Fresh Quarry",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/112.png"
+			}
+		},
+		{
+			"name": "Boon of Autumn",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/113.png"
+			}
+		},
+		{
+			"name": "Bring Me the Horizon",
+			"rarity": "common",
+			"mana_cost": "{X}{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/114.png"
+			}
+		},
+		{
+			"name": "Boon of Summer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/115.png"
+			}
+		},
+		{
+			"name": "Season's Greeting",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/116.png"
+			}
+		},
+		{
+			"name": "Boon of Spring",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/117.png"
+			}
+		},
+		{
+			"name": "Boon of the Inert Court",
+			"rarity": "common",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/118.png"
+			}
+		},
+		{
+			"name": "Boon of Winter",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/119.png"
+			}
+		},
+		{
+			"name": "Heart Court Gallant",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/120.png"
+			}
+		},
+		{
+			"name": "Wild Court Devotee",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Faerie Elf Druid",
+			"collector_number": "198",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/121_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/121_front.png"
+			}
+		},
+		{
+			"name": "Dire Wolf Matriarch",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/122.png"
+			}
+		},
+		{
+			"name": "Heart Court Unifier",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}{G}{G}",
+			"type": "Creature — Faerie Elf Bard",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/123.png"
+			}
+		},
+		{
+			"name": "Wil Cielee Politics",
+			"rarity": "rare",
+			"mana_cost": "{1}{B/G}{G}{G/W}",
+			"type": "Enchantment",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/124.png"
+			}
+		},
+		{
+			"name": "Sunblade Stinger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}{G}",
+			"type": "Creature — Elf Assassin",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/125.png"
+			}
+		},
+		{
+			"name": "Somber Harvester",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Faerie Elf Wizard",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/126.png"
+			}
+		},
+		{
+			"name": "Mournful Pilgrim",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Faerie Elf",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/127.png"
+			}
+		},
+		{
+			"name": "Wary Exile",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Faerie Elf Warrior",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/128.png"
+			}
+		},
+		{
+			"name": "Wil Cielee Politics",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{G/W}{G}{B/G}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/129.png"
+			}
+		},
+		{
+			"name": "Dire Wolf Matriarch",
+			"rarity": "masterpiece",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/130.png"
+			}
+		},
+		{
+			"name": "Crown of Winter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/131.png"
+			}
+		},
+		{
+			"name": "Crown of Autumn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/132.png"
+			}
+		},
+		{
+			"name": "Crown of Summer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/133.png"
+			}
+		},
+		{
+			"name": "Crown of Spring",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/134.png"
+			}
+		},
+		{
+			"name": "Survey the Domain",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/135.png"
+			}
+		},
+		{
+			"name": "The Wintermoon Culling",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Battle — Siege",
+			"collector_number": "214",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/136_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/136_front.png"
+			}
+		},
+		{
+			"name": "Bask in Tranquility",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/137.png"
+			}
+		},
+		{
+			"name": "Brancat, Wild Court Usurper",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Legendary Creature — Elf Druid",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/138.png"
+			}
+		},
+		{
+			"name": "The Fourfold Schism",
+			"rarity": "rare",
+			"mana_cost": "{G/W}{G/U}{B/G}{R/G}",
+			"type": "Battle — Siege",
+			"collector_number": "215",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/139_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/139_front.png"
+			}
+		},
+		{
+			"name": "Saorise Heartcourt the Soft",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Elf Wizard",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/140.png"
+			}
+		},
+		{
+			"name": "Dire Elk",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Creature — Elk",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/141.png"
+			}
+		},
+		{
+			"name": "Eilav Territory",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/142.png"
+			}
+		},
+		{
+			"name": "Umana Coast Sellsword",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/143.png"
+			}
+		},
+		{
+			"name": "Hounding of the Warrens",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Battle — Siege",
+			"collector_number": "208",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/144_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/144_front.png"
+			}
+		},
+		{
+			"name": "Vilkøning Provisioner",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/145.png"
+			}
+		},
+		{
+			"name": "Bloodclad Berserker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Orc Berserker",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/146.png"
+			}
+		},
+		{
+			"name": "Hardened Conqueror",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/147.png"
+			}
+		},
+		{
+			"name": "Rampaging Rovfugl",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/148.png"
+			}
+		},
+		{
+			"name": "Wild Compje",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/149.png"
+			}
+		},
+		{
+			"name": "Highland Shepherd",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Orc",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/150.png"
+			}
+		},
+		{
+			"name": "Saga Singer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Orc Bard",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/151.png"
+			}
+		},
+		{
+			"name": "Wandering Warrior",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/152.png"
+			}
+		},
+		{
+			"name": "Larrish Wanderer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Orc",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/153.png"
+			}
+		},
+		{
+			"name": "Beril Birdkeeper",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/154.png"
+			}
+		},
+		{
+			"name": "Marauder's Pride",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/155.png"
+			}
+		},
+		{
+			"name": "Rovfugl Strike",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/156.png"
+			}
+		},
+		{
+			"name": "Lightning Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/157.png"
+			}
+		},
+		{
+			"name": "Cultural Exchange",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/158.png"
+			}
+		},
+		{
+			"name": "Barge In",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/159.png"
+			}
+		},
+		{
+			"name": "Smoldering Reflections",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/160.png"
+			}
+		},
+		{
+			"name": "Clash of Clans",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/161.png"
+			}
+		},
+		{
+			"name": "Drop Dead",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/162.png"
+			}
+		},
+		{
+			"name": "Rapid Rout",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/163.png"
+			}
+		},
+		{
+			"name": "Ballistic Technology",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/164.png"
+			}
+		},
+		{
+			"name": "Devotion to Passion",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Legendary Enchantment",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/165.png"
+			}
+		},
+		{
+			"name": "Devotion to Passion",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Legendary Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/166.png"
+			}
+		},
+		{
+			"name": "Record the Eddas",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/167.png"
+			}
+		},
+		{
+			"name": "Scouting Swoop",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/168.png"
+			}
+		},
+		{
+			"name": "Daugan Marauder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/169.png"
+			}
+		},
+		{
+			"name": "Battle of Vodlund Camp",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Battle — Siege",
+			"collector_number": "200",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/170_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/170_front.png"
+			}
+		},
+		{
+			"name": "Beril Skirmisher",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Orc Rogue",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/171.png"
+			}
+		},
+		{
+			"name": "Bloodclad Muse",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Orc Bard",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/172.png"
+			}
+		},
+		{
+			"name": "Glorychanter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Orc Bard",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/173.png"
+			}
+		},
+		{
+			"name": "Larrish Skald",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Orc Bard",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/174.png"
+			}
+		},
+		{
+			"name": "Kvashi Javelineer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/175.png"
+			}
+		},
+		{
+			"name": "Astrid Caveen, Jarl of Nomelund",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Orc Wizard",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/176.png"
+			}
+		},
+		{
+			"name": "Lara Wordweaver, Edda Singer",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Orc Bard",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/177.png"
+			}
+		},
+		{
+			"name": "Sjenggi Brawler",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/178.png"
+			}
+		},
+		{
+			"name": "Bloodclad Muse",
+			"rarity": "masterpiece",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Orc Bard",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/179.png"
+			}
+		},
+		{
+			"name": "Sjenggr's Song",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/180.png"
+			}
+		},
+		{
+			"name": "Midda Cloudheart",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/181.png"
+			}
+		},
+		{
+			"name": "Ballad of the Heart",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/182.png"
+			}
+		},
+		{
+			"name": "Astrid and the Gnome-Jarl",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/183.png"
+			}
+		},
+		{
+			"name": "Rime of the Goblin-Hole",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/184.png"
+			}
+		},
+		{
+			"name": "Miracle of Home",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/185.png"
+			}
+		},
+		{
+			"name": "Wandersong",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/186.png"
+			}
+		},
+		{
+			"name": "Varroshi Village",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/187.png"
+			}
+		},
+		{
+			"name": "Sjenggr's Campaign",
+			"rarity": "rare",
+			"mana_cost": "{R/W}{U/R}{B/R}{R/G}",
+			"type": "Battle — Siege",
+			"collector_number": "217",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/188_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/188_front.png"
+			}
+		},
+		{
+			"name": "Cultural Exchange",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/189.png"
+			}
+		},
+		{
+			"name": "Valselvin Politics",
+			"rarity": "rare",
+			"mana_cost": "{1}{U/R}{R}{R/G}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/190.png"
+			}
+		},
+		{
+			"name": "The Froshic Edda",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/191.png"
+			}
+		},
+		{
+			"name": "The Cowing of the Mesians",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Battle — Siege",
+			"collector_number": "202",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/192_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/192_front.png"
+			}
+		},
+		{
+			"name": "Elspeth's Rally-Wing",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Goblin Angel Soldier",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/193.png"
+			}
+		},
+		{
+			"name": "Hack-in-the-Mox",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact Creature — Robot Clown",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/194.png"
+			}
+		},
+		{
+			"name": "Luxior, Giada's Gift",
+			"rarity": "mythic",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/195.png"
+			}
+		},
+		{
+			"name": "Luxior, Giada's Gift",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/196.png"
+			}
+		},
+		{
+			"name": "Skrongi's Enlightenment",
+			"rarity": "rare",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Enchantment",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/197.png"
+			}
+		},
+		{
+			"name": "The Mute Prince",
+			"rarity": "mythic",
+			"mana_cost": "{10}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/198.png"
+			}
+		},
+		{
+			"name": "Dog Amongst Wolves",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/199.png"
+			}
+		},
+		{
+			"name": "Power Up",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/200.png"
+			}
+		},
+		{
+			"name": "Probability Wormhole",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/201.png"
+			}
+		},
+		{
+			"name": "Narset's Reversal",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/202.png"
+			}
+		},
+		{
+			"name": "Shelter the Innocent",
+			"rarity": "common",
+			"mana_cost": "{W/B}",
+			"type": "Instant",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/203.png"
+			}
+		},
+		{
+			"name": "Terrier's Instinct",
+			"rarity": "rare",
+			"mana_cost": "{R/W}",
+			"type": "Instant",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/204.png"
+			}
+		},
+		{
+			"name": "Jackalope Denmother",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Rabbit",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/205.png"
+			}
+		},
+		{
+			"name": "Stout-Kin Bully",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Halfling Guest",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/206.png"
+			}
+		},
+		{
+			"name": "Voracious Visitor",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Halfling Guest",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/207.png"
+			}
+		},
+		{
+			"name": "Lightfoot Busybody",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Halfling",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/208.png"
+			}
+		},
+		{
+			"name": "Rice-Tax Hoarder",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Halfling Citizen",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/209.png"
+			}
+		},
+		{
+			"name": "Feyhunter Gryphon",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/210.png"
+			}
+		},
+		{
+			"name": "Lightfoot-Kin Snoop",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Halfling Scout",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/211.png"
+			}
+		},
+		{
+			"name": "Rabbiting Husker",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Halfling Peasant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/212.png"
+			}
+		},
+		{
+			"name": "Leafmonger",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Halfling Peasant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/213.png"
+			}
+		},
+		{
+			"name": "Valley Thalanamo",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/214.png"
+			}
+		},
+		{
+			"name": "Stout Muckraker",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Halfling",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/215.png"
+			}
+		},
+		{
+			"name": "Riverwise Confidant",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Halfling Advisor",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/216.png"
+			}
+		},
+		{
+			"name": "Rabbit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rabbit",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/217.png"
+			}
+		},
+		{
+			"name": "Jackalope Denmother",
+			"rarity": "masterpiece",
+			"mana_cost": "{W}",
+			"type": "Creature — Rabbit",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/218.png"
+			}
+		},
+		{
+			"name": "Surge of Solidarity",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/219.png"
+			}
+		},
+		{
+			"name": "Property Tax",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/220.png"
+			}
+		},
+		{
+			"name": "Politeness",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/221.png"
+			}
+		},
+		{
+			"name": "Second Breakfast",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/222.png"
+			}
+		},
+		{
+			"name": "Harm's Way",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/223.png"
+			}
+		},
+		{
+			"name": "Harvester's Sickle",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/224.png"
+			}
+		},
+		{
+			"name": "Humiliation",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/225.png"
+			}
+		},
+		{
+			"name": "Tax the Field-Workers",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/226.png"
+			}
+		},
+		{
+			"name": "Lightfoot-Kin Tallyman",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Halfling Employee",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/227.png"
+			}
+		},
+		{
+			"name": "Havlin Diplomat",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Halfling Advisor",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/228.png"
+			}
+		},
+		{
+			"name": "Surreptitious Seditionist",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Halfling Citizen",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/229.png"
+			}
+		},
+		{
+			"name": "Lightfoot Matriarch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Halfling Citizen",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/230.png"
+			}
+		},
+		{
+			"name": "Stout Landlord",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Halfling Citizen",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/231.png"
+			}
+		},
+		{
+			"name": "Stout-Kin Field Boss",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Halfling Employee",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/232.png"
+			}
+		},
+		{
+			"name": "Riverwise Negotiator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Halfling Advisor",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/233.png"
+			}
+		},
+		{
+			"name": "Gryphon Convocation",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/234.png"
+			}
+		},
+		{
+			"name": "Gryphon Convocation",
+			"rarity": "masterpiece",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/235.png"
+			}
+		},
+		{
+			"name": "Majestic Excess",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/236.png"
+			}
+		},
+		{
+			"name": "Forced to Feast",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/237.png"
+			}
+		},
+		{
+			"name": "Protect the Clique",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/238.png"
+			}
+		},
+		{
+			"name": "Swords to Plowshares",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/239.png"
+			}
+		},
+		{
+			"name": "Devotion to Protection",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/240.png"
+			}
+		},
+		{
+			"name": "Socratine Lightfoot, Purist",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Halfling Citizen",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/241.png"
+			}
+		},
+		{
+			"name": "Heronimina Stout, Traditionalist",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Legendary Creature — Halfling Citizen",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/242.png"
+			}
+		},
+		{
+			"name": "Havlin Hole",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/243.png"
+			}
+		},
+		{
+			"name": "The Havaan Valley Wildfire",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}{W}",
+			"type": "Battle — Siege",
+			"collector_number": "206",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/244_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/244_front.png"
+			}
+		},
+		{
+			"name": "Forced Farewell",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/245.png"
+			}
+		},
+		{
+			"name": "Ostracize",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/246.png"
+			}
+		},
+		{
+			"name": "Vow of Silence",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/247.png"
+			}
+		},
+		{
+			"name": "Eccentric Exile",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Halfling Druid",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/248.png"
+			}
+		},
+		{
+			"name": "Havlin Adventurer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Creature — Halfling Warrior",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/249.png"
+			}
+		},
+		{
+			"name": "Devotion to Protection",
+			"rarity": "masterpiece",
+			"mana_cost": "{2}{W}{W}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/250.png"
+			}
+		},
+		{
+			"name": "The Mute Prince",
+			"rarity": "masterpiece",
+			"mana_cost": "{10}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/251.png"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/252.png"
+			}
+		},
+		{
+			"name": "The Monarch",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/253.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/254.png"
+			}
+		},
+		{
+			"name": "Gryphon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Griffin",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/255.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/256.png"
+			}
+		},
+		{
+			"name": "Narset, Enlightened Mediator",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem — Narset",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/257.png"
+			}
+		},
+		{
+			"name": "Unie, Timeline Hacker",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem — Unie",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/258.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/259.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/260.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/261.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/262.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/263.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/264.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/265.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/266.png"
+			}
+		},
+		{
+			"name": "Junk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Junk",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/267.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/268.png"
+			}
+		},
+		{
+			"name": "Cursed Role",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura Role",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/269.png"
+			}
+		},
+		{
+			"name": "Dinosaur",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dinosaur",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/270.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/271.png"
+			}
+		},
+		{
+			"name": "Badger",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Badger",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/272.png"
+			}
+		},
+		{
+			"name": "Rat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rat",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/273.png"
+			}
+		},
+		{
+			"name": "Fish",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Fish",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/274.png"
+			}
+		},
+		{
+			"name": "Goblin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Goblin",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/275.png"
+			}
+		},
+		{
+			"name": "Faerie Dragon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Dragon",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/276.png"
+			}
+		},
+		{
+			"name": "Paal the Destroyer",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Creature — Faerie Dragon",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/277.png"
+			}
+		},
+		{
+			"name": "Pixie Namegiver",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Gnome Advisor",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/278.png"
+			}
+		},
+		{
+			"name": "Elk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/279.png"
+			}
+		},
+		{
+			"name": "Goblin Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Goblin Army",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/280.png"
+			}
+		},
+		{
+			"name": "Wall",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Wall",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/281.png"
+			}
+		},
+		{
+			"name": "Wolf",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/282.png"
+			}
+		},
+		{
+			"name": "Faerie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/283.png"
+			}
+		},
+		{
+			"name": "Orc Army",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Orc Army",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/284.png"
+			}
+		},
+		{
+			"name": "Copy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/285.png"
+			}
+		},
+		{
+			"name": "Confident Offspring",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Goblin Gnome",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/286.png"
+			}
+		},
+		{
+			"name": "Map",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Map",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/287.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/288.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/289.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/290.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/291.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/FEW-files/img/292.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Archelf Merrix, Venerated Exile
+	2 Barzi Olrelm, Voice of the Tribes
+	2 Skrongi, Son of Sjenggr
+	2 Jerri Berrymonger, Town Elder
+	2 Enid Nemina Mac Caveen, Folk Hero
+	2 Gyvling Dig-Planner
+	2 Fatal Misstep
+	2 Norxa, Gravesworn Champion
+	1 Elspeth, Feather of Two Wings
+	2 Vadro, Cocksure Avenger
+	2 Stealth
+	1 Devotion to Death
+	2 Gyvling Warrens
+	1 Comet, Food-Motivated
+	1 Narset, Enlightened Mediator
+	1 Unie Juniper, Timeline Hacker
+	2 Faerie Mastermind
+	1 Puck Oko Pilgrim, the Mute Prince
+	1 Devotion to Curiosity
+	2 Maisie Mac Froshbruk, Woad Witch
+	2 Puck's Attendant
+	2 Mara Ellen Yarberry, Naturalist
+	2 Shattered Sanity
+	2 Pixie Knothole
+	1 Devotion to Power
+	2 Wil Cielee Politics
+	2 Bask in Tranquility
+	2 Brancat, Wild Court Usurper
+	2 The Fourfold Schism
+	2 Saorise Heartcourt the Soft
+	2 Eilav Territory
+	1 Devotion to Passion
+	2 Record the Eddas
+	2 Astrid Caveen, Jarl of Nomelund
+	2 Lara Wordweaver, Edda Singer
+	2 Ballad of the Heart
+	2 Varroshi Village
+	2 Sjenggr's Campaign
+	2 Valselvin Politics
+	2 Elspeth's Rally-Wing
+	1 Luxior, Giada's Gift
+	2 Skrongi's Enlightenment
+	1 The Mute Prince
+	2 Probability Wormhole
+	2 Narset's Reversal
+	2 Terrier's Instinct
+	1 Devotion to Protection
+	2 Socratine Lightfoot, Purist
+	2 Heronimina Stout, Traditionalist
+	2 Havlin Hole
+	2 Forced Farewell
+	2 Ostracize
+	2 Vow of Silence
+[uncommon(3)]
+	4 Mirkat's Sentinel
+	4 Barzi's Shovel-Knight
+	4 Crowmother Cultist
+	4 Norxa's Spider-Rider
+	4 Bloodthirsty Avenger
+	4 Gyvling War Veteran
+	4 Marauding Auntie
+	4 Withering Torment
+	4 Rally the Resistance
+	4 Barzi's Recruitment
+	4 Raider's Ambition
+	4 Unbreakable Bond
+	4 Herald's Horn
+	4 Bury the Invaders
+	4 Pixie Namegiver
+	4 Thirst for Discovery
+	4 Invigorating Discovery
+	4 Yarberry Hedge Witch
+	4 Creature Teacher
+	4 Knothole Excavator
+	4 Feeny Ratkin
+	4 Wild Magician
+	4 Swashbuckling Pixie
+	4 Tea Break
+	4 Feywild Transformation
+	4 Shared Curiosity
+	4 Puckish Mischief
+	4 Land the Big One
+	4 Nurturing Couple
+	4 Heart Court Gallant
+	4 Wild Court Devotee
+	4 Dire Wolf Matriarch
+	4 Heart Court Unifier
+	4 Sunblade Stinger
+	4 Somber Harvester
+	4 Mournful Pilgrim
+	4 Wary Exile
+	4 Crown of Winter
+	4 Crown of Autumn
+	4 Crown of Summer
+	4 Crown of Spring
+	4 Survey the Domain
+	4 The Wintermoon Culling
+	4 Umana Coast Sellsword
+	4 Hounding of the Warrens
+	4 Rovfugl Strike
+	4 Clash of Clans
+	4 Rapid Rout
+	4 Ballistic Technology
+	4 Daugan Marauder
+	4 Battle of Vodlund Camp
+	4 Beril Skirmisher
+	4 Bloodclad Muse
+	4 Glorychanter
+	4 Larrish Skald
+	4 Kvashi Javelineer
+	4 Sjenggi Brawler
+	4 Sjenggr's Song
+	4 Midda Cloudheart
+	4 Astrid and the Gnome-Jarl
+	4 Miracle of Home
+	4 The Froshic Edda
+	4 The Cowing of the Mesians
+	4 Power Up
+	4 Property Tax
+	4 Lightfoot-Kin Tallyman
+	4 Havlin Diplomat
+	4 Surreptitious Seditionist
+	4 Lightfoot Matriarch
+	4 Stout Landlord
+	4 Stout-Kin Field Boss
+	4 Riverwise Negotiator
+	4 Gryphon Convocation
+	4 Majestic Excess
+	4 Forced to Feast
+	4 Protect the Clique
+	4 Swords to Plowshares
+	4 The Havaan Valley Wildfire
+	4 Eccentric Exile
+	4 Havlin Adventurer
+[common(7)]
+	8 Norxa's Archer
+	8 Vadro's Avenger
+	8 Gyvling Archivist
+	8 Fen Scout
+	8 Excavation Specialist
+	8 Dire Wolf Spider
+	8 Guardian Earthking
+	8 Fungus Farmer
+	8 Mirkat's Rally-Runner
+	8 Barzi's Honor Guard
+	8 Supernatural Stamina
+	8 Study by Moonlight
+	8 Triumph of the Masses
+	8 Abrupt Senescence
+	8 Avenge
+	8 Battle Fatigue
+	8 Moment of Respite
+	8 Gyvling Rally-Spear
+	8 Shadowfell Edict
+	8 Caveen Kestrelkin
+	8 Curious Philosopher
+	8 Dambreaker Danny
+	8 Lakeside Fisher
+	8 Froshbruk Haberdasher
+	8 Feeny Badgerkin
+	8 Food Fight Champion
+	8 Yarberry Shepherd
+	8 Silence, Ancestor
+	8 Got It Right
+	8 Discover a Species
+	8 Bottled Lotus
+	8 Time for Soup
+	8 Learn Your Limits
+	8 Harsh Lesson
+	8 Bluecap Dreams
+	8 Ponder
+	8 King of the Woad
+	8 Caveen Raptorkin
+	8 Ancestral Teachings
+	8 Faerie Deserter
+	8 Disciple of the Inert Court
+	8 Winter Court Stinger
+	8 Summer Court Storyteller
+	8 Dire Elk
+	8 Autumn Court Archer
+	8 Hunting Party
+	8 Spring Court Wayfinder
+	8 Owlbear
+	8 Conquering Pilgrim
+	8 Eilav Suncaller
+	8 Fresh Quarry
+	8 Boon of Autumn
+	8 Bring Me the Horizon
+	8 Boon of Summer
+	8 Season's Greeting
+	8 Boon of Spring
+	8 Boon of the Inert Court
+	8 Boon of Winter
+	8 Vilkøning Provisioner
+	8 Bloodclad Berserker
+	8 Hardened Conqueror
+	8 Rampaging Rovfugl
+	8 Wild Compje
+	8 Highland Shepherd
+	8 Saga Singer
+	8 Wandering Warrior
+	8 Larrish Wanderer
+	8 Beril Birdkeeper
+	8 Marauder's Pride
+	8 Lightning Strike
+	8 Cultural Exchange
+	8 Barge In
+	8 Smoldering Reflections
+	8 Drop Dead
+	8 Scouting Swoop
+	8 Rime of the Goblin-Hole
+	8 Wandersong
+	8 Hack-in-the-Mox
+	8 Dog Amongst Wolves
+	8 Shelter the Innocent
+	8 Jackalope Denmother
+	8 Stout-Kin Bully
+	8 Voracious Visitor
+	8 Lightfoot Busybody
+	8 Rice-Tax Hoarder
+	8 Feyhunter Gryphon
+	8 Lightfoot-Kin Snoop
+	8 Rabbiting Husker
+	8 Leafmonger
+	8 Valley Thalanamo
+	8 Stout Muckraker
+	8 Riverwise Confidant
+	8 Surge of Solidarity
+	8 Politeness
+	8 Second Breakfast
+	8 Harm's Way
+	8 Harvester's Sickle
+	8 Humiliation
+	8 Tax the Field-Workers
+	8 Evolving Wilds
+[foil(1)]
+	2 Archelf Merrix, Venerated Exile
+	2 Barzi Olrelm, Voice of the Tribes
+	2 Skrongi, Son of Sjenggr
+	2 Jerri Berrymonger, Town Elder
+	2 Enid Nemina Mac Caveen, Folk Hero
+	6 Mirkat's Sentinel
+	12 Norxa's Archer
+	6 Barzi's Shovel-Knight
+	12 Vadro's Avenger
+	12 Gyvling Archivist
+	12 Fen Scout
+	12 Excavation Specialist
+	12 Dire Wolf Spider
+	12 Guardian Earthking
+	12 Fungus Farmer
+	2 Gyvling Dig-Planner
+	12 Mirkat's Rally-Runner
+	6 Crowmother Cultist
+	6 Norxa's Spider-Rider
+	6 Bloodthirsty Avenger
+	6 Gyvling War Veteran
+	6 Marauding Auntie
+	12 Barzi's Honor Guard
+	12 Supernatural Stamina
+	12 Study by Moonlight
+	12 Triumph of the Masses
+	12 Abrupt Senescence
+	2 Fatal Misstep
+	12 Avenge
+	12 Battle Fatigue
+	6 Withering Torment
+	12 Moment of Respite
+	6 Rally the Resistance
+	12 Gyvling Rally-Spear
+	2 Norxa, Gravesworn Champion
+	12 Shadowfell Edict
+	1 Elspeth, Feather of Two Wings
+	6 Barzi's Recruitment
+	6 Raider's Ambition
+	6 Unbreakable Bond
+	2 Vadro, Cocksure Avenger
+	6 Herald's Horn
+	6 Bury the Invaders
+	2 Stealth
+	1 Devotion to Death
+	2 Gyvling Warrens
+	1 Comet, Food-Motivated
+	1 Narset, Enlightened Mediator
+	1 Unie Juniper, Timeline Hacker
+	12 Caveen Kestrelkin
+	12 Curious Philosopher
+	6 Pixie Namegiver
+	12 Dambreaker Danny
+	12 Lakeside Fisher
+	12 Froshbruk Haberdasher
+	12 Feeny Badgerkin
+	12 Food Fight Champion
+	2 Faerie Mastermind
+	1 Puck Oko Pilgrim, the Mute Prince
+	6 Thirst for Discovery
+	12 Yarberry Shepherd
+	12 Silence, Ancestor
+	6 Invigorating Discovery
+	12 Got It Right
+	6 Yarberry Hedge Witch
+	12 Discover a Species
+	12 Bottled Lotus
+	12 Time for Soup
+	12 Learn Your Limits
+	12 Harsh Lesson
+	12 Bluecap Dreams
+	12 Ponder
+	6 Creature Teacher
+	6 Knothole Excavator
+	12 King of the Woad
+	6 Feeny Ratkin
+	6 Wild Magician
+	6 Swashbuckling Pixie
+	12 Caveen Raptorkin
+	1 Devotion to Curiosity
+	6 Tea Break
+	6 Feywild Transformation
+	12 Ancestral Teachings
+	6 Shared Curiosity
+	6 Puckish Mischief
+	6 Land the Big One
+	2 Maisie Mac Froshbruk, Woad Witch
+	2 Puck's Attendant
+	2 Mara Ellen Yarberry, Naturalist
+	2 Shattered Sanity
+	2 Pixie Knothole
+	12 Faerie Deserter
+	12 Disciple of the Inert Court
+	12 Winter Court Stinger
+	12 Summer Court Storyteller
+	12 Dire Elk
+	12 Autumn Court Archer
+	12 Hunting Party
+	12 Spring Court Wayfinder
+	12 Owlbear
+	12 Conquering Pilgrim
+	12 Eilav Suncaller
+	6 Nurturing Couple
+	1 Devotion to Power
+	12 Fresh Quarry
+	12 Boon of Autumn
+	12 Bring Me the Horizon
+	12 Boon of Summer
+	12 Season's Greeting
+	12 Boon of Spring
+	12 Boon of the Inert Court
+	12 Boon of Winter
+	6 Heart Court Gallant
+	6 Wild Court Devotee
+	6 Dire Wolf Matriarch
+	6 Heart Court Unifier
+	2 Wil Cielee Politics
+	6 Sunblade Stinger
+	6 Somber Harvester
+	6 Mournful Pilgrim
+	6 Wary Exile
+	6 Crown of Winter
+	6 Crown of Autumn
+	6 Crown of Summer
+	6 Crown of Spring
+	6 Survey the Domain
+	6 The Wintermoon Culling
+	2 Bask in Tranquility
+	2 Brancat, Wild Court Usurper
+	2 The Fourfold Schism
+	2 Saorise Heartcourt the Soft
+	2 Eilav Territory
+	6 Umana Coast Sellsword
+	6 Hounding of the Warrens
+	12 Vilkøning Provisioner
+	12 Bloodclad Berserker
+	12 Hardened Conqueror
+	12 Rampaging Rovfugl
+	12 Wild Compje
+	12 Highland Shepherd
+	12 Saga Singer
+	12 Wandering Warrior
+	12 Larrish Wanderer
+	12 Beril Birdkeeper
+	12 Marauder's Pride
+	6 Rovfugl Strike
+	12 Lightning Strike
+	12 Cultural Exchange
+	12 Barge In
+	12 Smoldering Reflections
+	6 Clash of Clans
+	12 Drop Dead
+	6 Rapid Rout
+	6 Ballistic Technology
+	1 Devotion to Passion
+	2 Record the Eddas
+	12 Scouting Swoop
+	6 Daugan Marauder
+	6 Battle of Vodlund Camp
+	6 Beril Skirmisher
+	6 Bloodclad Muse
+	6 Glorychanter
+	6 Larrish Skald
+	6 Kvashi Javelineer
+	2 Astrid Caveen, Jarl of Nomelund
+	2 Lara Wordweaver, Edda Singer
+	6 Sjenggi Brawler
+	6 Sjenggr's Song
+	6 Midda Cloudheart
+	2 Ballad of the Heart
+	6 Astrid and the Gnome-Jarl
+	12 Rime of the Goblin-Hole
+	6 Miracle of Home
+	12 Wandersong
+	2 Varroshi Village
+	2 Sjenggr's Campaign
+	2 Valselvin Politics
+	6 The Froshic Edda
+	6 The Cowing of the Mesians
+	2 Elspeth's Rally-Wing
+	12 Hack-in-the-Mox
+	1 Luxior, Giada's Gift
+	2 Skrongi's Enlightenment
+	1 The Mute Prince
+	12 Dog Amongst Wolves
+	6 Power Up
+	2 Probability Wormhole
+	2 Narset's Reversal
+	12 Shelter the Innocent
+	2 Terrier's Instinct
+	12 Jackalope Denmother
+	12 Stout-Kin Bully
+	12 Voracious Visitor
+	12 Lightfoot Busybody
+	12 Rice-Tax Hoarder
+	12 Feyhunter Gryphon
+	12 Lightfoot-Kin Snoop
+	12 Rabbiting Husker
+	12 Leafmonger
+	12 Valley Thalanamo
+	12 Stout Muckraker
+	12 Riverwise Confidant
+	12 Surge of Solidarity
+	6 Property Tax
+	12 Politeness
+	12 Second Breakfast
+	12 Harm's Way
+	12 Harvester's Sickle
+	12 Humiliation
+	12 Tax the Field-Workers
+	6 Lightfoot-Kin Tallyman
+	6 Havlin Diplomat
+	6 Surreptitious Seditionist
+	6 Lightfoot Matriarch
+	6 Stout Landlord
+	6 Stout-Kin Field Boss
+	6 Riverwise Negotiator
+	6 Gryphon Convocation
+	6 Majestic Excess
+	6 Forced to Feast
+	6 Protect the Clique
+	6 Swords to Plowshares
+	1 Devotion to Protection
+	2 Socratine Lightfoot, Purist
+	2 Heronimina Stout, Traditionalist
+	2 Havlin Hole
+	6 The Havaan Valley Wildfire
+	2 Forced Farewell
+	2 Ostracize
+	2 Vow of Silence
+	6 Eccentric Exile
+	6 Havlin Adventurer
+	12 Evolving Wilds
+[wildcard(1)]
+	7 Archelf Merrix, Venerated Exile
+	7 Barzi Olrelm, Voice of the Tribes
+	7 Skrongi, Son of Sjenggr
+	7 Jerri Berrymonger, Town Elder
+	7 Enid Nemina Mac Caveen, Folk Hero
+	15 Mirkat's Sentinel
+	6 Norxa's Archer
+	15 Barzi's Shovel-Knight
+	6 Vadro's Avenger
+	6 Gyvling Archivist
+	6 Fen Scout
+	6 Excavation Specialist
+	6 Dire Wolf Spider
+	6 Guardian Earthking
+	6 Fungus Farmer
+	7 Gyvling Dig-Planner
+	6 Mirkat's Rally-Runner
+	15 Crowmother Cultist
+	15 Norxa's Spider-Rider
+	15 Bloodthirsty Avenger
+	15 Gyvling War Veteran
+	15 Marauding Auntie
+	6 Barzi's Honor Guard
+	6 Supernatural Stamina
+	6 Study by Moonlight
+	6 Triumph of the Masses
+	6 Abrupt Senescence
+	7 Fatal Misstep
+	6 Avenge
+	6 Battle Fatigue
+	15 Withering Torment
+	6 Moment of Respite
+	15 Rally the Resistance
+	6 Gyvling Rally-Spear
+	7 Norxa, Gravesworn Champion
+	6 Shadowfell Edict
+	4 Elspeth, Feather of Two Wings
+	15 Barzi's Recruitment
+	15 Raider's Ambition
+	15 Unbreakable Bond
+	7 Vadro, Cocksure Avenger
+	15 Herald's Horn
+	15 Bury the Invaders
+	7 Stealth
+	4 Devotion to Death
+	7 Gyvling Warrens
+	4 Comet, Food-Motivated
+	4 Narset, Enlightened Mediator
+	4 Unie Juniper, Timeline Hacker
+	6 Caveen Kestrelkin
+	6 Curious Philosopher
+	15 Pixie Namegiver
+	6 Dambreaker Danny
+	6 Lakeside Fisher
+	6 Froshbruk Haberdasher
+	6 Feeny Badgerkin
+	6 Food Fight Champion
+	7 Faerie Mastermind
+	4 Puck Oko Pilgrim, the Mute Prince
+	15 Thirst for Discovery
+	6 Yarberry Shepherd
+	6 Silence, Ancestor
+	15 Invigorating Discovery
+	6 Got It Right
+	15 Yarberry Hedge Witch
+	6 Discover a Species
+	6 Bottled Lotus
+	6 Time for Soup
+	6 Learn Your Limits
+	6 Harsh Lesson
+	6 Bluecap Dreams
+	6 Ponder
+	15 Creature Teacher
+	15 Knothole Excavator
+	6 King of the Woad
+	15 Feeny Ratkin
+	15 Wild Magician
+	15 Swashbuckling Pixie
+	6 Caveen Raptorkin
+	4 Devotion to Curiosity
+	15 Tea Break
+	15 Feywild Transformation
+	6 Ancestral Teachings
+	15 Shared Curiosity
+	15 Puckish Mischief
+	15 Land the Big One
+	7 Maisie Mac Froshbruk, Woad Witch
+	7 Puck's Attendant
+	7 Mara Ellen Yarberry, Naturalist
+	7 Shattered Sanity
+	7 Pixie Knothole
+	6 Faerie Deserter
+	6 Disciple of the Inert Court
+	6 Winter Court Stinger
+	6 Summer Court Storyteller
+	6 Dire Elk
+	6 Autumn Court Archer
+	6 Hunting Party
+	6 Spring Court Wayfinder
+	6 Owlbear
+	6 Conquering Pilgrim
+	6 Eilav Suncaller
+	15 Nurturing Couple
+	4 Devotion to Power
+	6 Fresh Quarry
+	6 Boon of Autumn
+	6 Bring Me the Horizon
+	6 Boon of Summer
+	6 Season's Greeting
+	6 Boon of Spring
+	6 Boon of the Inert Court
+	6 Boon of Winter
+	15 Heart Court Gallant
+	15 Wild Court Devotee
+	15 Dire Wolf Matriarch
+	15 Heart Court Unifier
+	7 Wil Cielee Politics
+	15 Sunblade Stinger
+	15 Somber Harvester
+	15 Mournful Pilgrim
+	15 Wary Exile
+	15 Crown of Winter
+	15 Crown of Autumn
+	15 Crown of Summer
+	15 Crown of Spring
+	15 Survey the Domain
+	15 The Wintermoon Culling
+	7 Bask in Tranquility
+	7 Brancat, Wild Court Usurper
+	7 The Fourfold Schism
+	7 Saorise Heartcourt the Soft
+	7 Eilav Territory
+	15 Umana Coast Sellsword
+	15 Hounding of the Warrens
+	6 Vilkøning Provisioner
+	6 Bloodclad Berserker
+	6 Hardened Conqueror
+	6 Rampaging Rovfugl
+	6 Wild Compje
+	6 Highland Shepherd
+	6 Saga Singer
+	6 Wandering Warrior
+	6 Larrish Wanderer
+	6 Beril Birdkeeper
+	6 Marauder's Pride
+	15 Rovfugl Strike
+	6 Lightning Strike
+	6 Cultural Exchange
+	6 Barge In
+	6 Smoldering Reflections
+	15 Clash of Clans
+	6 Drop Dead
+	15 Rapid Rout
+	15 Ballistic Technology
+	4 Devotion to Passion
+	7 Record the Eddas
+	6 Scouting Swoop
+	15 Daugan Marauder
+	15 Battle of Vodlund Camp
+	15 Beril Skirmisher
+	15 Bloodclad Muse
+	15 Glorychanter
+	15 Larrish Skald
+	15 Kvashi Javelineer
+	7 Astrid Caveen, Jarl of Nomelund
+	7 Lara Wordweaver, Edda Singer
+	15 Sjenggi Brawler
+	15 Sjenggr's Song
+	15 Midda Cloudheart
+	7 Ballad of the Heart
+	15 Astrid and the Gnome-Jarl
+	6 Rime of the Goblin-Hole
+	15 Miracle of Home
+	6 Wandersong
+	7 Varroshi Village
+	7 Sjenggr's Campaign
+	7 Valselvin Politics
+	15 The Froshic Edda
+	15 The Cowing of the Mesians
+	7 Elspeth's Rally-Wing
+	6 Hack-in-the-Mox
+	4 Luxior, Giada's Gift
+	7 Skrongi's Enlightenment
+	4 The Mute Prince
+	6 Dog Amongst Wolves
+	15 Power Up
+	7 Probability Wormhole
+	7 Narset's Reversal
+	6 Shelter the Innocent
+	7 Terrier's Instinct
+	6 Jackalope Denmother
+	6 Stout-Kin Bully
+	6 Voracious Visitor
+	6 Lightfoot Busybody
+	6 Rice-Tax Hoarder
+	6 Feyhunter Gryphon
+	6 Lightfoot-Kin Snoop
+	6 Rabbiting Husker
+	6 Leafmonger
+	6 Valley Thalanamo
+	6 Stout Muckraker
+	6 Riverwise Confidant
+	6 Surge of Solidarity
+	15 Property Tax
+	6 Politeness
+	6 Second Breakfast
+	6 Harm's Way
+	6 Harvester's Sickle
+	6 Humiliation
+	6 Tax the Field-Workers
+	15 Lightfoot-Kin Tallyman
+	15 Havlin Diplomat
+	15 Surreptitious Seditionist
+	15 Lightfoot Matriarch
+	15 Stout Landlord
+	15 Stout-Kin Field Boss
+	15 Riverwise Negotiator
+	15 Gryphon Convocation
+	15 Majestic Excess
+	15 Forced to Feast
+	15 Protect the Clique
+	15 Swords to Plowshares
+	4 Devotion to Protection
+	7 Socratine Lightfoot, Purist
+	7 Heronimina Stout, Traditionalist
+	7 Havlin Hole
+	15 The Havaan Valley Wildfire
+	7 Forced Farewell
+	7 Ostracize
+	7 Vow of Silence
+	15 Eccentric Exile
+	15 Havlin Adventurer
+	6 Evolving Wilds
