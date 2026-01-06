@@ -4,6 +4,11 @@
             "set_code": "FEW",
             "set_name": "Galbaron: the First Easterwar",
             "formats": "Underdome"
+        },
+        {
+            "set_code": "PTN",
+            "set_name": "Potionomics",
+            "formats": "Underdome"
         }
     ]
 }

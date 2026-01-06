@@ -1,0 +1,1666 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Set 'Em Up",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/0.png"
+			}
+		},
+		{
+			"name": "Sylvia, the Potionseller",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/1.png"
+			}
+		},
+		{
+			"name": "Quinn, Ingredient Vendor",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/2.png"
+			}
+		},
+		{
+			"name": "Mint, Budding Hero",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/3.png"
+			}
+		},
+		{
+			"name": "Xidriel, Bardic Hero",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Human Bard",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/4.png"
+			}
+		},
+		{
+			"name": "Roxanne, Enchantress",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/5.png"
+			}
+		},
+		{
+			"name": "Luna, Marketing Specialist",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Insect Advisor",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/6.png"
+			}
+		},
+		{
+			"name": "Saffron, Hermit Carpenter",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Satyr Druid",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/7.png"
+			}
+		},
+		{
+			"name": "Corsac, Survivalist Hero",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Human Ranger",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/8.png"
+			}
+		},
+		{
+			"name": "Salt and Pepper, Cat Pirates",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Legendary Creature — Cat Pirate",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/9.png"
+			}
+		},
+		{
+			"name": "Baptiste, Guildmaster",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/10.png"
+			}
+		},
+		{
+			"name": "Muktuk, Traveling Blacksmith",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Beast Artificer",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/11.png"
+			}
+		},
+		{
+			"name": "Captivate",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/12.png"
+			}
+		},
+		{
+			"name": "Shock Factor",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/13.png"
+			}
+		},
+		{
+			"name": "Keep It Simple",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/14.png"
+			}
+		},
+		{
+			"name": "Build Rapport",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/15.png"
+			}
+		},
+		{
+			"name": "Conviction",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/16.png"
+			}
+		},
+		{
+			"name": "Lipstick",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/17.png"
+			}
+		},
+		{
+			"name": "Opening Act",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/18.png"
+			}
+		},
+		{
+			"name": "Throat Spray",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/19.png"
+			}
+		},
+		{
+			"name": "Avast Ye!",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/20.png"
+			}
+		},
+		{
+			"name": "Be Prepared",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/21.png"
+			}
+		},
+		{
+			"name": "Close It Out",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Instant — Closer",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/22.png"
+			}
+		},
+		{
+			"name": "Hustle",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Instant — Closer",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/23.png"
+			}
+		},
+		{
+			"name": "Take It Or Leave It",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Instant — Closer",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/24.png"
+			}
+		},
+		{
+			"name": "Final Push",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Instant — Closer",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/25.png"
+			}
+		},
+		{
+			"name": "Carpe Diem",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}",
+			"type": "Instant — Closer",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/26.png"
+			}
+		},
+		{
+			"name": "Mass Misdirection",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}",
+			"type": "Instant — Closer",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/27.png"
+			}
+		},
+		{
+			"name": "Zeal",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Instant — Closer",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/28.png"
+			}
+		},
+		{
+			"name": "Sleight of Hand",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant — Closer",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/29.png"
+			}
+		},
+		{
+			"name": "Give No Quarter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant — Closer",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/30.png"
+			}
+		},
+		{
+			"name": "Reel 'Em In",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/31.png"
+			}
+		},
+		{
+			"name": "Brace Yourself",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/32.png"
+			}
+		},
+		{
+			"name": "Think, Sylvia, Think",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/33.png"
+			}
+		},
+		{
+			"name": "Scheme",
+			"rarity": "common",
+			"mana_cost": "{W}{U}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/34.png"
+			}
+		},
+		{
+			"name": "Two is Better Than One",
+			"rarity": "uncommon",
+			"mana_cost": "{G/U}{W}",
+			"type": "Instant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/35.png"
+			}
+		},
+		{
+			"name": "Barrage",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/36.png"
+			}
+		},
+		{
+			"name": "Mulligan",
+			"rarity": "rare",
+			"mana_cost": "{B/G}{R}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/37.png"
+			}
+		},
+		{
+			"name": "Rattle 'Em Off",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{B}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/38.png"
+			}
+		},
+		{
+			"name": "Plant the Seed",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/39.png"
+			}
+		},
+		{
+			"name": "Press the Attack",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/40.png"
+			}
+		},
+		{
+			"name": "Pressure",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/41.png"
+			}
+		},
+		{
+			"name": "Fuel the Fire",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/42.png"
+			}
+		},
+		{
+			"name": "Compound Interest",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/43.png"
+			}
+		},
+		{
+			"name": "Sympathy",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/44.png"
+			}
+		},
+		{
+			"name": "Keep Your Guard Up",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/45.png"
+			}
+		},
+		{
+			"name": "Muscle Memory",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/46.png"
+			}
+		},
+		{
+			"name": "Blitz",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/47.png"
+			}
+		},
+		{
+			"name": "Eye on the Prize",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/48.png"
+			}
+		},
+		{
+			"name": "Unfazed",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/49.png"
+			}
+		},
+		{
+			"name": "Fortitude",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/50.png"
+			}
+		},
+		{
+			"name": "Subvert",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/51.png"
+			}
+		},
+		{
+			"name": "Compromise",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/52.png"
+			}
+		},
+		{
+			"name": "Common Ground",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/53.png"
+			}
+		},
+		{
+			"name": "Strategic Withdrawal",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/54.png"
+			}
+		},
+		{
+			"name": "Emotional Intelligence",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/55.png"
+			}
+		},
+		{
+			"name": "Silver Tongue",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/56.png"
+			}
+		},
+		{
+			"name": "Pump Up",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/57.png"
+			}
+		},
+		{
+			"name": "Enthusiasm",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/58.png"
+			}
+		},
+		{
+			"name": "Craftsmanship",
+			"rarity": "common",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/59.png"
+			}
+		},
+		{
+			"name": "Reinforce",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/60.png"
+			}
+		},
+		{
+			"name": "Bravado",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/61.png"
+			}
+		},
+		{
+			"name": "Artistry",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/62.png"
+			}
+		},
+		{
+			"name": "Flattery",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/63.png"
+			}
+		},
+		{
+			"name": "Disarm",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/64.png"
+			}
+		},
+		{
+			"name": "Pander",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/65.png"
+			}
+		},
+		{
+			"name": "Emotional Minefield",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/66.png"
+			}
+		},
+		{
+			"name": "Magnetism",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/67.png"
+			}
+		},
+		{
+			"name": "Meditate",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/68.png"
+			}
+		},
+		{
+			"name": "Guided Thought",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/69.png"
+			}
+		},
+		{
+			"name": "Casual Conversation",
+			"rarity": "common",
+			"mana_cost": "{X}{X}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/70.png"
+			}
+		},
+		{
+			"name": "Deep Connection",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/71.png"
+			}
+		},
+		{
+			"name": "Mindfulness",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/72.png"
+			}
+		},
+		{
+			"name": "Regulated Breathing",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Basic Enchantment",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/73.png"
+			}
+		},
+		{
+			"name": "Serenity of Mind",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/74.png"
+			}
+		},
+		{
+			"name": "Tranquility",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/75.png"
+			}
+		},
+		{
+			"name": "Jingle",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/76.png"
+			}
+		},
+		{
+			"name": "Chorus",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Basic Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/77.png"
+			}
+		},
+		{
+			"name": "Improv",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/78.png"
+			}
+		},
+		{
+			"name": "Rhythm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/79.png"
+			}
+		},
+		{
+			"name": "Catchy Tune",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/80.png"
+			}
+		},
+		{
+			"name": "Encore",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/81.png"
+			}
+		},
+		{
+			"name": "Strike or Strike Later",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/82.png"
+			}
+		},
+		{
+			"name": "Good Cop, Bad Cop",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/83.png"
+			}
+		},
+		{
+			"name": "Salt or Pepper",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/84.png"
+			}
+		},
+		{
+			"name": "Batten Down the Hatches",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/85.png"
+			}
+		},
+		{
+			"name": "Mental Purrrley",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/86.png"
+			}
+		},
+		{
+			"name": "Ferocity of the Squirrel",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/87.png"
+			}
+		},
+		{
+			"name": "Adapt",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/88.png"
+			}
+		},
+		{
+			"name": "Happy Place",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/89.png"
+			}
+		},
+		{
+			"name": "Serenity of the Mollusk",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/90.png"
+			}
+		},
+		{
+			"name": "Pivot",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Instant — Trap",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/91.png"
+			}
+		},
+		{
+			"name": "Mind of the Slime",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/92.png"
+			}
+		},
+		{
+			"name": "Lessons from Nature",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/93.png"
+			}
+		},
+		{
+			"name": "Elevator Pitch",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/94.png"
+			}
+		},
+		{
+			"name": "Lean Into It",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/95.png"
+			}
+		},
+		{
+			"name": "Wing It",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/96.png"
+			}
+		},
+		{
+			"name": "Rehearsed Line",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/97.png"
+			}
+		},
+		{
+			"name": "Caffeine Rush",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/98.png"
+			}
+		},
+		{
+			"name": "Dig Deep",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/99.png"
+			}
+		},
+		{
+			"name": "Subliminal Suggestion",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/100.png"
+			}
+		},
+		{
+			"name": "Silence Cure",
+			"rarity": "uncommon",
+			"mana_cost": "{2/R}",
+			"type": "Artifact — Potion",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/101.png"
+			}
+		},
+		{
+			"name": "Insight Enhancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Potion",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/102.png"
+			}
+		},
+		{
+			"name": "Potion of Healing",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Potion",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/103.png"
+			}
+		},
+		{
+			"name": "Poison Cure",
+			"rarity": "uncommon",
+			"mana_cost": "{2/B}",
+			"type": "Artifact — Potion",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/104.png"
+			}
+		},
+		{
+			"name": "Potion of Mana",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Potion",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/105.png"
+			}
+		},
+		{
+			"name": "Curse Cure",
+			"rarity": "uncommon",
+			"mana_cost": "{2/W}",
+			"type": "Artifact — Potion",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/106.png"
+			}
+		},
+		{
+			"name": "Potion of Stamina",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Potion",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/107.png"
+			}
+		},
+		{
+			"name": "Thunder Tonic",
+			"rarity": "common",
+			"mana_cost": "{1}{2/G}",
+			"type": "Artifact — Potion",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/108.png"
+			}
+		},
+		{
+			"name": "Dowsing Enhancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Potion",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/109.png"
+			}
+		},
+		{
+			"name": "Shadow Tonic",
+			"rarity": "common",
+			"mana_cost": "{1}{2/B}",
+			"type": "Artifact — Potion",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/110.png"
+			}
+		},
+		{
+			"name": "Potion of Speed",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Potion",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/111.png"
+			}
+		},
+		{
+			"name": "Drowsiness Cure",
+			"rarity": "uncommon",
+			"mana_cost": "{2/U}",
+			"type": "Artifact — Potion",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/112.png"
+			}
+		},
+		{
+			"name": "Potion of Tolerance",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Potion",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/113.png"
+			}
+		},
+		{
+			"name": "Radiation Tonic",
+			"rarity": "common",
+			"mana_cost": "{1}{2/W}",
+			"type": "Artifact — Potion",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/114.png"
+			}
+		},
+		{
+			"name": "Fire Tonic",
+			"rarity": "common",
+			"mana_cost": "{1}{2/R}",
+			"type": "Artifact — Potion",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/115.png"
+			}
+		},
+		{
+			"name": "Seeking Enhancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Potion",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/116.png"
+			}
+		},
+		{
+			"name": "Sight Enhancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Potion",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/117.png"
+			}
+		},
+		{
+			"name": "Ice Tonic",
+			"rarity": "common",
+			"mana_cost": "{1}{2/U}",
+			"type": "Artifact — Potion",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/118.png"
+			}
+		},
+		{
+			"name": "Petrification Cure",
+			"rarity": "uncommon",
+			"mana_cost": "{2/G}",
+			"type": "Artifact — Potion",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/119.png"
+			}
+		},
+		{
+			"name": "Alertness Enhancer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Potion",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/120.png"
+			}
+		},
+		{
+			"name": "Owl, Freeloading Familiar",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Creature — Bird Wizard",
+			"collector_number": "3",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/121_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/121_front.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/122.png"
+			}
+		},
+		{
+			"name": "Interest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/123.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/124.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/125.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/126.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/127.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/PTN-files/img/128.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Sylvia, the Potionseller
+	1 Quinn, Ingredient Vendor
+	1 Mint, Budding Hero
+	1 Xidriel, Bardic Hero
+	1 Roxanne, Enchantress
+	1 Luna, Marketing Specialist
+	1 Saffron, Hermit Carpenter
+	1 Corsac, Survivalist Hero
+	1 Salt and Pepper, Cat Pirates
+	1 Baptiste, Guildmaster
+	1 Muktuk, Traveling Blacksmith
+	2 Conviction
+	2 Hustle
+	2 Take It Or Leave It
+	2 Final Push
+	2 Carpe Diem
+	2 Mass Misdirection
+	2 Mulligan
+	2 Rattle 'Em Off
+	2 Unfazed
+	2 Fortitude
+	2 Emotional Intelligence
+	2 Silver Tongue
+	2 Artistry
+	2 Magnetism
+	2 Serenity of Mind
+	2 Tranquility
+	2 Catchy Tune
+	2 Encore
+	2 Mental Purrrley
+	2 Mind of the Slime
+	2 Lessons from Nature
+	2 Subliminal Suggestion
+	1 Owl, Freeloading Familiar
+[uncommon(3)]
+	4 Keep It Simple
+	4 Lipstick
+	4 Throat Spray
+	4 Avast Ye!
+	4 Zeal
+	4 Sleight of Hand
+	4 Give No Quarter
+	4 Two is Better Than One
+	4 Barrage
+	4 Pressure
+	4 Fuel the Fire
+	4 Compound Interest
+	4 Blitz
+	4 Eye on the Prize
+	4 Compromise
+	4 Common Ground
+	4 Strategic Withdrawal
+	4 Reinforce
+	4 Bravado
+	4 Pander
+	4 Emotional Minefield
+	4 Deep Connection
+	4 Mindfulness
+	4 Improv
+	4 Rhythm
+	4 Batten Down the Hatches
+	4 Happy Place
+	4 Serenity of the Mollusk
+	4 Pivot
+	4 Rehearsed Line
+	4 Caffeine Rush
+	4 Dig Deep
+	4 Silence Cure
+	4 Insight Enhancer
+	4 Poison Cure
+	4 Curse Cure
+	4 Dowsing Enhancer
+	4 Drowsiness Cure
+	4 Seeking Enhancer
+	4 Sight Enhancer
+	4 Petrification Cure
+	4 Alertness Enhancer
+[common(7)]
+	8 Set 'Em Up
+	8 Captivate
+	8 Shock Factor
+	8 Build Rapport
+	8 Opening Act
+	8 Be Prepared
+	8 Close It Out
+	8 Reel 'Em In
+	8 Brace Yourself
+	8 Think, Sylvia, Think
+	8 Scheme
+	8 Plant the Seed
+	8 Press the Attack
+	8 Sympathy
+	8 Keep Your Guard Up
+	8 Muscle Memory
+	8 Subvert
+	8 Pump Up
+	8 Enthusiasm
+	8 Craftsmanship
+	8 Flattery
+	8 Disarm
+	8 Meditate
+	8 Guided Thought
+	8 Casual Conversation
+	8 Jingle
+	8 Strike or Strike Later
+	8 Good Cop, Bad Cop
+	8 Salt or Pepper
+	8 Ferocity of the Squirrel
+	8 Adapt
+	8 Elevator Pitch
+	8 Lean Into It
+	8 Wing It
+	8 Potion of Healing
+	8 Potion of Mana
+	8 Potion of Stamina
+	8 Thunder Tonic
+	8 Shadow Tonic
+	8 Potion of Speed
+	8 Potion of Tolerance
+	8 Radiation Tonic
+	8 Fire Tonic
+	8 Ice Tonic
+[foil(1)]
+	12 Set 'Em Up
+	1 Sylvia, the Potionseller
+	1 Quinn, Ingredient Vendor
+	1 Mint, Budding Hero
+	1 Xidriel, Bardic Hero
+	1 Roxanne, Enchantress
+	1 Luna, Marketing Specialist
+	1 Saffron, Hermit Carpenter
+	1 Corsac, Survivalist Hero
+	1 Salt and Pepper, Cat Pirates
+	1 Baptiste, Guildmaster
+	1 Muktuk, Traveling Blacksmith
+	12 Captivate
+	12 Shock Factor
+	6 Keep It Simple
+	12 Build Rapport
+	2 Conviction
+	6 Lipstick
+	12 Opening Act
+	6 Throat Spray
+	6 Avast Ye!
+	12 Be Prepared
+	12 Close It Out
+	2 Hustle
+	2 Take It Or Leave It
+	2 Final Push
+	2 Carpe Diem
+	2 Mass Misdirection
+	6 Zeal
+	6 Sleight of Hand
+	6 Give No Quarter
+	12 Reel 'Em In
+	12 Brace Yourself
+	12 Think, Sylvia, Think
+	12 Scheme
+	6 Two is Better Than One
+	6 Barrage
+	2 Mulligan
+	2 Rattle 'Em Off
+	12 Plant the Seed
+	12 Press the Attack
+	6 Pressure
+	6 Fuel the Fire
+	6 Compound Interest
+	12 Sympathy
+	12 Keep Your Guard Up
+	12 Muscle Memory
+	6 Blitz
+	6 Eye on the Prize
+	2 Unfazed
+	2 Fortitude
+	12 Subvert
+	6 Compromise
+	6 Common Ground
+	6 Strategic Withdrawal
+	2 Emotional Intelligence
+	2 Silver Tongue
+	12 Pump Up
+	12 Enthusiasm
+	12 Craftsmanship
+	6 Reinforce
+	6 Bravado
+	2 Artistry
+	12 Flattery
+	12 Disarm
+	6 Pander
+	6 Emotional Minefield
+	2 Magnetism
+	12 Meditate
+	12 Guided Thought
+	12 Casual Conversation
+	6 Deep Connection
+	6 Mindfulness
+	2 Serenity of Mind
+	2 Tranquility
+	12 Jingle
+	6 Improv
+	6 Rhythm
+	2 Catchy Tune
+	2 Encore
+	12 Strike or Strike Later
+	12 Good Cop, Bad Cop
+	12 Salt or Pepper
+	6 Batten Down the Hatches
+	2 Mental Purrrley
+	12 Ferocity of the Squirrel
+	12 Adapt
+	6 Happy Place
+	6 Serenity of the Mollusk
+	6 Pivot
+	2 Mind of the Slime
+	2 Lessons from Nature
+	12 Elevator Pitch
+	12 Lean Into It
+	12 Wing It
+	6 Rehearsed Line
+	6 Caffeine Rush
+	6 Dig Deep
+	2 Subliminal Suggestion
+	6 Silence Cure
+	6 Insight Enhancer
+	12 Potion of Healing
+	6 Poison Cure
+	12 Potion of Mana
+	6 Curse Cure
+	12 Potion of Stamina
+	12 Thunder Tonic
+	6 Dowsing Enhancer
+	12 Shadow Tonic
+	12 Potion of Speed
+	6 Drowsiness Cure
+	12 Potion of Tolerance
+	12 Radiation Tonic
+	12 Fire Tonic
+	6 Seeking Enhancer
+	6 Sight Enhancer
+	12 Ice Tonic
+	6 Petrification Cure
+	6 Alertness Enhancer
+	1 Owl, Freeloading Familiar
+[wildcard(1)]
+	6 Set 'Em Up
+	4 Sylvia, the Potionseller
+	4 Quinn, Ingredient Vendor
+	4 Mint, Budding Hero
+	4 Xidriel, Bardic Hero
+	4 Roxanne, Enchantress
+	4 Luna, Marketing Specialist
+	4 Saffron, Hermit Carpenter
+	4 Corsac, Survivalist Hero
+	4 Salt and Pepper, Cat Pirates
+	4 Baptiste, Guildmaster
+	4 Muktuk, Traveling Blacksmith
+	6 Captivate
+	6 Shock Factor
+	15 Keep It Simple
+	6 Build Rapport
+	7 Conviction
+	15 Lipstick
+	6 Opening Act
+	15 Throat Spray
+	15 Avast Ye!
+	6 Be Prepared
+	6 Close It Out
+	7 Hustle
+	7 Take It Or Leave It
+	7 Final Push
+	7 Carpe Diem
+	7 Mass Misdirection
+	15 Zeal
+	15 Sleight of Hand
+	15 Give No Quarter
+	6 Reel 'Em In
+	6 Brace Yourself
+	6 Think, Sylvia, Think
+	6 Scheme
+	15 Two is Better Than One
+	15 Barrage
+	7 Mulligan
+	7 Rattle 'Em Off
+	6 Plant the Seed
+	6 Press the Attack
+	15 Pressure
+	15 Fuel the Fire
+	15 Compound Interest
+	6 Sympathy
+	6 Keep Your Guard Up
+	6 Muscle Memory
+	15 Blitz
+	15 Eye on the Prize
+	7 Unfazed
+	7 Fortitude
+	6 Subvert
+	15 Compromise
+	15 Common Ground
+	15 Strategic Withdrawal
+	7 Emotional Intelligence
+	7 Silver Tongue
+	6 Pump Up
+	6 Enthusiasm
+	6 Craftsmanship
+	15 Reinforce
+	15 Bravado
+	7 Artistry
+	6 Flattery
+	6 Disarm
+	15 Pander
+	15 Emotional Minefield
+	7 Magnetism
+	6 Meditate
+	6 Guided Thought
+	6 Casual Conversation
+	15 Deep Connection
+	15 Mindfulness
+	7 Serenity of Mind
+	7 Tranquility
+	6 Jingle
+	15 Improv
+	15 Rhythm
+	7 Catchy Tune
+	7 Encore
+	6 Strike or Strike Later
+	6 Good Cop, Bad Cop
+	6 Salt or Pepper
+	15 Batten Down the Hatches
+	7 Mental Purrrley
+	6 Ferocity of the Squirrel
+	6 Adapt
+	15 Happy Place
+	15 Serenity of the Mollusk
+	15 Pivot
+	7 Mind of the Slime
+	7 Lessons from Nature
+	6 Elevator Pitch
+	6 Lean Into It
+	6 Wing It
+	15 Rehearsed Line
+	15 Caffeine Rush
+	15 Dig Deep
+	7 Subliminal Suggestion
+	15 Silence Cure
+	15 Insight Enhancer
+	6 Potion of Healing
+	15 Poison Cure
+	6 Potion of Mana
+	15 Curse Cure
+	6 Potion of Stamina
+	6 Thunder Tonic
+	15 Dowsing Enhancer
+	6 Shadow Tonic
+	6 Potion of Speed
+	15 Drowsiness Cure
+	6 Potion of Tolerance
+	6 Radiation Tonic
+	6 Fire Tonic
+	15 Seeking Enhancer
+	15 Sight Enhancer
+	6 Ice Tonic
+	15 Petrification Cure
+	15 Alertness Enhancer
+	4 Owl, Freeloading Familiar
