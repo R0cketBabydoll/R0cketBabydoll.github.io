@@ -920,26 +920,6 @@
             "notes": ""
         },
         {
-            "card_name": "Massage Date",
-            "color": "B",
-            "rarity": "common",
-            "type": "Sorcery",
-            "number": 0,
-            "color_identity": "B",
-            "cost": "{B}",
-            "rules_text": "Cleave {4}{B} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]\nReturn target legendary creature or planeswalker from your graveyard to the battlefield [that was put there this turn].",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "MSB",
-            "loyalty": "",
-            "artist": "The Hats",
-            "alias": "",
-            "position": "75",
-            "notes": ""
-        },
-        {
             "card_name": "Charm Wrestling",
             "color": "G",
             "rarity": "common",
@@ -997,26 +977,6 @@
             "artist": "The Hats",
             "alias": "",
             "position": "79",
-            "notes": ""
-        },
-        {
-            "card_name": "Massage Date",
-            "color": "B",
-            "rarity": "common",
-            "type": "Sorcery",
-            "number": 0,
-            "color_identity": "B",
-            "cost": "{B}",
-            "rules_text": "Cleave {4}{B} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]\nReturn target legendary creature or planeswalker from your graveyard to the battlefield [that was put there this turn].",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "MSB",
-            "loyalty": "",
-            "artist": "The Hats",
-            "alias": "",
-            "position": "80",
             "notes": ""
         },
         {
@@ -1280,26 +1240,6 @@
             "notes": ""
         },
         {
-            "card_name": "Massage Date",
-            "color": "B",
-            "rarity": "common",
-            "type": "Sorcery",
-            "number": 0,
-            "color_identity": "B",
-            "cost": "{B}",
-            "rules_text": "Cleave {4}{B} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]\nReturn target legendary creature or planeswalker from your graveyard to the battlefield [that was put there this turn].",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "MSB",
-            "loyalty": "",
-            "artist": "The Hats",
-            "alias": "",
-            "position": "94",
-            "notes": ""
-        },
-        {
             "card_name": "District Map",
             "color": "",
             "rarity": "common",
@@ -1318,27 +1258,7 @@
             "alias": "",
             "position": "95",
             "notes": ""
-        },
-        {
-            "card_name": "Massage Date",
-            "color": "B",
-            "rarity": "common",
-            "type": "Sorcery",
-            "number": 0,
-            "color_identity": "B",
-            "cost": "{B}",
-            "rules_text": "Cleave {4}{B} [i](You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)[/i]\nReturn target legendary creature or planeswalker from your graveyard to the battlefield [that was put there this turn].",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "MSB",
-            "loyalty": "",
-            "artist": "The Hats",
-            "alias": "",
-            "position": "96",
-            "notes": ""
         }
     ],
-    "version": 1
+    "version": 2
 }

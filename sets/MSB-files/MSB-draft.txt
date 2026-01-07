@@ -458,16 +458,6 @@
 			}
 		},
 		{
-			"name": "Massage Date",
-			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Sorcery",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/75.png"
-			}
-		},
-		{
 			"name": "Charm Wrestling",
 			"rarity": "common",
 			"mana_cost": "{G}",
@@ -495,16 +485,6 @@
 			"collector_number": "18",
 			"image_uris": {
 				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/79.png"
-			}
-		},
-		{
-			"name": "Massage Date",
-			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Sorcery",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/80.png"
 			}
 		},
 		{
@@ -638,16 +618,6 @@
 			}
 		},
 		{
-			"name": "Massage Date",
-			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Sorcery",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/94.png"
-			}
-		},
-		{
 			"name": "District Map",
 			"rarity": "common",
 			"mana_cost": "{2}",
@@ -655,16 +625,6 @@
 			"collector_number": "40",
 			"image_uris": {
 				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/95.png"
-			}
-		},
-		{
-			"name": "Massage Date",
-			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Sorcery",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/96.png"
 			}
 		}
 	]
@@ -718,11 +678,9 @@
 	8 Corgi Racing
 	8 Strip Blackjack
 	8 Spin the Bottle
-	8 Massage Date
 	8 Charm Wrestling
 	8 Strip Fencing
 	8 Butler Battle
-	8 Massage Date
 	8 Employee Tonic
 	8 Spa Date
 	8 Boxing Gloves
@@ -735,9 +693,7 @@
 	8 Dueling Cane
 	8 Tasty Pastry
 	8 Massage Date
-	8 Massage Date
 	8 District Map
-	8 Massage Date
 [foil(1)]
 	1 Rosalina Ingold, Business Maid
 	1 Arthur Armstrong, Battle Butler
@@ -784,11 +740,9 @@
 	12 Corgi Racing
 	12 Strip Blackjack
 	12 Spin the Bottle
-	12 Massage Date
 	12 Charm Wrestling
 	12 Strip Fencing
 	12 Butler Battle
-	12 Massage Date
 	6 Demonic Hordes
 	12 Employee Tonic
 	12 Spa Date
@@ -802,9 +756,7 @@
 	12 Dueling Cane
 	12 Tasty Pastry
 	12 Massage Date
-	12 Massage Date
 	12 District Map
-	12 Massage Date
 [wildcard(1)]
 	4 Rosalina Ingold, Business Maid
 	4 Arthur Armstrong, Battle Butler
@@ -851,11 +803,9 @@
 	6 Corgi Racing
 	6 Strip Blackjack
 	6 Spin the Bottle
-	6 Massage Date
 	6 Charm Wrestling
 	6 Strip Fencing
 	6 Butler Battle
-	6 Massage Date
 	15 Demonic Hordes
 	6 Employee Tonic
 	6 Spa Date
@@ -869,6 +819,4 @@
 	6 Dueling Cane
 	6 Tasty Pastry
 	6 Massage Date
-	6 Massage Date
 	6 District Map
-	6 Massage Date

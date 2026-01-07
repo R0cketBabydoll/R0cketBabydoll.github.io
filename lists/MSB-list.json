@@ -80,11 +80,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "Smut Peddler",
-        "number": 13,
+        "card_name": "Massage Date",
+        "number": 12,
         "shape": "normal",
         "set": "MSB",
-        "position": "44"
+        "position": "93"
     },
     {
         "card_name": "Traveling Merchant",
@@ -107,11 +107,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "Tea Date",
-        "number": 14,
-        "shape": "saga",
+        "card_name": "Smut Peddler",
+        "number": 13,
+        "shape": "normal",
         "set": "MSB",
-        "position": "62"
+        "position": "44"
     },
     {
         "card_name": "e"
@@ -130,7 +130,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Tea Date",
+        "number": 14,
+        "shape": "saga",
+        "set": "MSB",
+        "position": "62"
     },
     {
         "card_name": "e"

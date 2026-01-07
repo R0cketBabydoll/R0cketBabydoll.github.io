@@ -1,4 +1,16 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+Massage Date removed.
+Massage Date removed.
+Massage Date removed.
+Massage Date removed.
+
+Massage Date
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
