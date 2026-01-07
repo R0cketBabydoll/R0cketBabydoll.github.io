@@ -1,0 +1,874 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Rosalina Ingold, Business Maid",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Creature — Human Employee",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/0.png"
+			}
+		},
+		{
+			"name": "Arthur Armstrong, Battle Butler",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Human Employee",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/1.png"
+			}
+		},
+		{
+			"name": "Vicki LeStrange, Sleepy Witch",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/2.png"
+			}
+		},
+		{
+			"name": "Gunn Moses, Dapper Bookworm",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/3.png"
+			}
+		},
+		{
+			"name": "Bonbon Von Valentine, Courtesan of Great Repute",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Doxy",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/4.png"
+			}
+		},
+		{
+			"name": "Antoine Hardmeat, Shy Prince",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/5.png"
+			}
+		},
+		{
+			"name": "Pip Whipple, Tomboy Detective",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Detective",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/6.png"
+			}
+		},
+		{
+			"name": "Max Gentlemen, Sexy Businessman",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/7.png"
+			}
+		},
+		{
+			"name": "Penny Farthing, Rock Solid Inventor",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/8.png"
+			}
+		},
+		{
+			"name": "Vlad Nibblesome, Brooding Scientist",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/9.png"
+			}
+		},
+		{
+			"name": "Fanny Shufflebottom, Naive Princess",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/10.png"
+			}
+		},
+		{
+			"name": "Sinterklaas, Avatar of Warmth",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Snow Creature — Human Advisor",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/11.png"
+			}
+		},
+		{
+			"name": "Summer Starling, Antagonistic Domme",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Human Doxy",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/12.png"
+			}
+		},
+		{
+			"name": "Samuel Finch, Monster Hunter",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/13.png"
+			}
+		},
+		{
+			"name": "Cashious Villionaire, Hellbent Nemesis",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Human Citizen",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/14.png"
+			}
+		},
+		{
+			"name": "Angel Fullbody, Mysterious Benefactor",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/15.png"
+			}
+		},
+		{
+			"name": "Stock Exchange",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/32.png"
+			}
+		},
+		{
+			"name": "Uptown Barbershop",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/33.png"
+			}
+		},
+		{
+			"name": "Temple of the Business God",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/34.png"
+			}
+		},
+		{
+			"name": "Workers Slums",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/35.png"
+			}
+		},
+		{
+			"name": "Boxing Gym",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/36.png"
+			}
+		},
+		{
+			"name": "Town Square",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/37.png"
+			}
+		},
+		{
+			"name": "Train Station",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/38.png"
+			}
+		},
+		{
+			"name": "Executive Office",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/39.png"
+			}
+		},
+		{
+			"name": "Madame's Estate",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/40.png"
+			}
+		},
+		{
+			"name": "Gold Factory",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/41.png"
+			}
+		},
+		{
+			"name": "Corner Pub",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/42.png"
+			}
+		},
+		{
+			"name": "Traveling Merchant",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/43.png"
+			}
+		},
+		{
+			"name": "Smut Peddler",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/44.png"
+			}
+		},
+		{
+			"name": "Cherry Belle, Damsel Scion",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "3",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/45_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/45_front.png"
+			}
+		},
+		{
+			"name": "Block Party",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/46.png"
+			}
+		},
+		{
+			"name": "Cheering Crowds",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/61.png"
+			}
+		},
+		{
+			"name": "Tea Date",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/62.png"
+			}
+		},
+		{
+			"name": "Flower Bouquet",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Treasure",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/63.png"
+			}
+		},
+		{
+			"name": "Fisticuffs Tonic",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Potion",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/64.png"
+			}
+		},
+		{
+			"name": "Moustache Tonic",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Potion",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/65.png"
+			}
+		},
+		{
+			"name": "Wouldst Thou Rather",
+			"rarity": "common",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/66.png"
+			}
+		},
+		{
+			"name": "Criminal Activity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/67.png"
+			}
+		},
+		{
+			"name": "Market Awareness",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/68.png"
+			}
+		},
+		{
+			"name": "Neighborhood Riot",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/69.png"
+			}
+		},
+		{
+			"name": "Lovestruck Dandy",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/70.png"
+			}
+		},
+		{
+			"name": "Love Tonic",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Potion",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/71.png"
+			}
+		},
+		{
+			"name": "Corgi Racing",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/72.png"
+			}
+		},
+		{
+			"name": "Strip Blackjack",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/73.png"
+			}
+		},
+		{
+			"name": "Spin the Bottle",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/74.png"
+			}
+		},
+		{
+			"name": "Massage Date",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/75.png"
+			}
+		},
+		{
+			"name": "Charm Wrestling",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/76.png"
+			}
+		},
+		{
+			"name": "Strip Fencing",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/78.png"
+			}
+		},
+		{
+			"name": "Butler Battle",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/79.png"
+			}
+		},
+		{
+			"name": "Massage Date",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/80.png"
+			}
+		},
+		{
+			"name": "Demonic Hordes",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/81.png"
+			}
+		},
+		{
+			"name": "Employee Tonic",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Potion",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/82.png"
+			}
+		},
+		{
+			"name": "Spa Date",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/83.png"
+			}
+		},
+		{
+			"name": "Boxing Gloves",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/84.png"
+			}
+		},
+		{
+			"name": "Battle Umbrella",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/85.png"
+			}
+		},
+		{
+			"name": "Hip Flask",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/86.png"
+			}
+		},
+		{
+			"name": "Moustache Wax",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/87.png"
+			}
+		},
+		{
+			"name": "Broker's Monocle",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/88.png"
+			}
+		},
+		{
+			"name": "Snake Oil",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/89.png"
+			}
+		},
+		{
+			"name": "Gaudy Ring",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/90.png"
+			}
+		},
+		{
+			"name": "Dueling Cane",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/91.png"
+			}
+		},
+		{
+			"name": "Tasty Pastry",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/92.png"
+			}
+		},
+		{
+			"name": "Massage Date",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/93.png"
+			}
+		},
+		{
+			"name": "Massage Date",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/94.png"
+			}
+		},
+		{
+			"name": "District Map",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Map",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/95.png"
+			}
+		},
+		{
+			"name": "Massage Date",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/MSB-files/img/96.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Rosalina Ingold, Business Maid
+	1 Arthur Armstrong, Battle Butler
+	2 Vicki LeStrange, Sleepy Witch
+	2 Gunn Moses, Dapper Bookworm
+	2 Bonbon Von Valentine, Courtesan of Great Repute
+	2 Antoine Hardmeat, Shy Prince
+	2 Pip Whipple, Tomboy Detective
+	2 Max Gentlemen, Sexy Businessman
+	2 Penny Farthing, Rock Solid Inventor
+	2 Vlad Nibblesome, Brooding Scientist
+	2 Fanny Shufflebottom, Naive Princess
+	2 Sinterklaas, Avatar of Warmth
+	2 Summer Starling, Antagonistic Domme
+	2 Samuel Finch, Monster Hunter
+	1 Cashious Villionaire, Hellbent Nemesis
+	1 Angel Fullbody, Mysterious Benefactor
+	1 Cherry Belle, Damsel Scion
+[uncommon(3)]
+	4 Temple of the Business God
+	4 Train Station
+	4 Executive Office
+	4 Madame's Estate
+	4 Gold Factory
+	4 Corner Pub
+	4 Block Party
+	4 Cheering Crowds
+	4 Criminal Activity
+	4 Market Awareness
+	4 Neighborhood Riot
+	4 Demonic Hordes
+[common(7)]
+	8 Stock Exchange
+	8 Uptown Barbershop
+	8 Workers Slums
+	8 Boxing Gym
+	8 Town Square
+	8 Traveling Merchant
+	8 Smut Peddler
+	8 Tea Date
+	8 Flower Bouquet
+	8 Fisticuffs Tonic
+	8 Moustache Tonic
+	8 Wouldst Thou Rather
+	8 Lovestruck Dandy
+	8 Love Tonic
+	8 Corgi Racing
+	8 Strip Blackjack
+	8 Spin the Bottle
+	8 Massage Date
+	8 Charm Wrestling
+	8 Strip Fencing
+	8 Butler Battle
+	8 Massage Date
+	8 Employee Tonic
+	8 Spa Date
+	8 Boxing Gloves
+	8 Battle Umbrella
+	8 Hip Flask
+	8 Moustache Wax
+	8 Broker's Monocle
+	8 Snake Oil
+	8 Gaudy Ring
+	8 Dueling Cane
+	8 Tasty Pastry
+	8 Massage Date
+	8 Massage Date
+	8 District Map
+	8 Massage Date
+[foil(1)]
+	1 Rosalina Ingold, Business Maid
+	1 Arthur Armstrong, Battle Butler
+	2 Vicki LeStrange, Sleepy Witch
+	2 Gunn Moses, Dapper Bookworm
+	2 Bonbon Von Valentine, Courtesan of Great Repute
+	2 Antoine Hardmeat, Shy Prince
+	2 Pip Whipple, Tomboy Detective
+	2 Max Gentlemen, Sexy Businessman
+	2 Penny Farthing, Rock Solid Inventor
+	2 Vlad Nibblesome, Brooding Scientist
+	2 Fanny Shufflebottom, Naive Princess
+	2 Sinterklaas, Avatar of Warmth
+	2 Summer Starling, Antagonistic Domme
+	2 Samuel Finch, Monster Hunter
+	1 Cashious Villionaire, Hellbent Nemesis
+	1 Angel Fullbody, Mysterious Benefactor
+	12 Stock Exchange
+	12 Uptown Barbershop
+	6 Temple of the Business God
+	12 Workers Slums
+	12 Boxing Gym
+	12 Town Square
+	6 Train Station
+	6 Executive Office
+	6 Madame's Estate
+	6 Gold Factory
+	6 Corner Pub
+	12 Traveling Merchant
+	12 Smut Peddler
+	1 Cherry Belle, Damsel Scion
+	6 Block Party
+	6 Cheering Crowds
+	12 Tea Date
+	12 Flower Bouquet
+	12 Fisticuffs Tonic
+	12 Moustache Tonic
+	12 Wouldst Thou Rather
+	6 Criminal Activity
+	6 Market Awareness
+	6 Neighborhood Riot
+	12 Lovestruck Dandy
+	12 Love Tonic
+	12 Corgi Racing
+	12 Strip Blackjack
+	12 Spin the Bottle
+	12 Massage Date
+	12 Charm Wrestling
+	12 Strip Fencing
+	12 Butler Battle
+	12 Massage Date
+	6 Demonic Hordes
+	12 Employee Tonic
+	12 Spa Date
+	12 Boxing Gloves
+	12 Battle Umbrella
+	12 Hip Flask
+	12 Moustache Wax
+	12 Broker's Monocle
+	12 Snake Oil
+	12 Gaudy Ring
+	12 Dueling Cane
+	12 Tasty Pastry
+	12 Massage Date
+	12 Massage Date
+	12 District Map
+	12 Massage Date
+[wildcard(1)]
+	4 Rosalina Ingold, Business Maid
+	4 Arthur Armstrong, Battle Butler
+	7 Vicki LeStrange, Sleepy Witch
+	7 Gunn Moses, Dapper Bookworm
+	7 Bonbon Von Valentine, Courtesan of Great Repute
+	7 Antoine Hardmeat, Shy Prince
+	7 Pip Whipple, Tomboy Detective
+	7 Max Gentlemen, Sexy Businessman
+	7 Penny Farthing, Rock Solid Inventor
+	7 Vlad Nibblesome, Brooding Scientist
+	7 Fanny Shufflebottom, Naive Princess
+	7 Sinterklaas, Avatar of Warmth
+	7 Summer Starling, Antagonistic Domme
+	7 Samuel Finch, Monster Hunter
+	4 Cashious Villionaire, Hellbent Nemesis
+	4 Angel Fullbody, Mysterious Benefactor
+	6 Stock Exchange
+	6 Uptown Barbershop
+	15 Temple of the Business God
+	6 Workers Slums
+	6 Boxing Gym
+	6 Town Square
+	15 Train Station
+	15 Executive Office
+	15 Madame's Estate
+	15 Gold Factory
+	15 Corner Pub
+	6 Traveling Merchant
+	6 Smut Peddler
+	4 Cherry Belle, Damsel Scion
+	15 Block Party
+	15 Cheering Crowds
+	6 Tea Date
+	6 Flower Bouquet
+	6 Fisticuffs Tonic
+	6 Moustache Tonic
+	6 Wouldst Thou Rather
+	15 Criminal Activity
+	15 Market Awareness
+	15 Neighborhood Riot
+	6 Lovestruck Dandy
+	6 Love Tonic
+	6 Corgi Racing
+	6 Strip Blackjack
+	6 Spin the Bottle
+	6 Massage Date
+	6 Charm Wrestling
+	6 Strip Fencing
+	6 Butler Battle
+	6 Massage Date
+	15 Demonic Hordes
+	6 Employee Tonic
+	6 Spa Date
+	6 Boxing Gloves
+	6 Battle Umbrella
+	6 Hip Flask
+	6 Moustache Wax
+	6 Broker's Monocle
+	6 Snake Oil
+	6 Gaudy Ring
+	6 Dueling Cane
+	6 Tasty Pastry
+	6 Massage Date
+	6 Massage Date
+	6 District Map
+	6 Massage Date
