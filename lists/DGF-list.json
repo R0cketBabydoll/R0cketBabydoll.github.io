@@ -1,0 +1,1671 @@
+﻿[
+    {
+        "card_name": "Tradition of Radiation",
+        "number": 29,
+        "shape": "saga",
+        "set": "DGF",
+        "position": "11"
+    },
+    {
+        "card_name": "Ancient Blue Dragon",
+        "number": 31,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "71"
+    },
+    {
+        "card_name": "Ancient Black Dragon",
+        "number": 58,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "70"
+    },
+    {
+        "card_name": "Ancient Red Dragon",
+        "number": 83,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "69"
+    },
+    {
+        "card_name": "Ancient Green Dragon",
+        "number": 109,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "73"
+    },
+    {
+        "card_name": "Dog's Best Friend",
+        "number": 8,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "113"
+    },
+    {
+        "card_name": "Tradition of Psionics",
+        "number": 55,
+        "shape": "saga",
+        "set": "DGF",
+        "position": "8"
+    },
+    {
+        "card_name": "Tradition of Blood",
+        "number": 75,
+        "shape": "saga",
+        "set": "DGF",
+        "position": "12"
+    },
+    {
+        "card_name": "Tradition of Energy",
+        "number": 106,
+        "shape": "saga",
+        "set": "DGF",
+        "position": "9"
+    },
+    {
+        "card_name": "Tradition of Gravity",
+        "number": 135,
+        "shape": "saga",
+        "set": "DGF",
+        "position": "10"
+    },
+    {
+        "card_name": "Potomok Slavanaroda, Sun Emperor",
+        "number": 18,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "2"
+    },
+    {
+        "card_name": "Allure of the Rusalka",
+        "number": 30,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "122"
+    },
+    {
+        "card_name": "Bloodite Aswang",
+        "number": 60,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "187"
+    },
+    {
+        "card_name": "Dragonfall, Netra's Masterwork",
+        "number": 91,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "125"
+    },
+    {
+        "card_name": "Penumbra Rites",
+        "number": 123,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "177"
+    },
+    {
+        "card_name": "Radiant Bastion",
+        "number": 20,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "132"
+    },
+    {
+        "card_name": "Dephong Yen, Third-Eye Visionary",
+        "number": 33,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "3"
+    },
+    {
+        "card_name": "War Haka",
+        "number": 79,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "188"
+    },
+    {
+        "card_name": "Erosion of the Dunes",
+        "number": 92,
+        "shape": "saga",
+        "set": "DGF",
+        "position": "15"
+    },
+    {
+        "card_name": "Raising the Woods",
+        "number": 127,
+        "shape": "saga",
+        "set": "DGF",
+        "position": "16"
+    },
+    {
+        "card_name": "Thawing the Tundra",
+        "number": 26,
+        "shape": "saga",
+        "set": "DGF",
+        "position": "13"
+    },
+    {
+        "card_name": "Dominion of the Isle",
+        "number": 34,
+        "shape": "saga",
+        "set": "DGF",
+        "position": "14"
+    },
+    {
+        "card_name": "Hand of Fate",
+        "number": 64,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "183"
+    },
+    {
+        "card_name": "Netra Choolha, Anvil of Passion",
+        "number": 99,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "1"
+    },
+    {
+        "card_name": "Sage of the Ascent",
+        "number": 131,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "176"
+    },
+    {
+        "card_name": "Bakali Convert",
+        "number": 3,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "129"
+    },
+    {
+        "card_name": "Moment Reader",
+        "number": 44,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "145"
+    },
+    {
+        "card_name": "Judicator Magistrate",
+        "number": 65,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "182"
+    },
+    {
+        "card_name": "Three Traditions Adept",
+        "number": 105,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "157"
+    },
+    {
+        "card_name": "Zhongli Tian Kuo, Heaven Meets Earth",
+        "number": 137,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "4"
+    },
+    {
+        "card_name": "Bakali Orthodox",
+        "number": 4,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "127"
+    },
+    {
+        "card_name": "Lotus Field Lessons",
+        "number": 39,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "144"
+    },
+    {
+        "card_name": "Kitsune Shinigame",
+        "number": 67,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "78"
+    },
+    {
+        "card_name": "Brazen Mavudai",
+        "number": 86,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "83"
+    },
+    {
+        "card_name": "Dynasty Warlord",
+        "number": 111,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "174"
+    },
+    {
+        "card_name": "Daywalker Monster Slayer",
+        "number": 5,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "114"
+    },
+    {
+        "card_name": "Narset's Disciple",
+        "number": 45,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "141"
+    },
+    {
+        "card_name": "N\u0101ga Champion",
+        "number": 68,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "109"
+    },
+    {
+        "card_name": "Cold-Forge Artisan",
+        "number": 88,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "152"
+    },
+    {
+        "card_name": "Lotus Mage",
+        "number": 117,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "103"
+    },
+    {
+        "card_name": "Dobrynya, Starbreaker",
+        "number": 7,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "30"
+    },
+    {
+        "card_name": "Pearl Philosopher",
+        "number": 48,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "139"
+    },
+    {
+        "card_name": "Rebalance",
+        "number": 71,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "186"
+    },
+    {
+        "card_name": "Cool Under Pressure",
+        "number": 90,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "147"
+    },
+    {
+        "card_name": "Pouncing Grovetender",
+        "number": 125,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "74"
+    },
+    {
+        "card_name": "H\u0101kuturi Queen",
+        "number": 11,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "112"
+    },
+    {
+        "card_name": "Psychic Discipline",
+        "number": 49,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "142"
+    },
+    {
+        "card_name": "Share the Curse",
+        "number": 72,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "184"
+    },
+    {
+        "card_name": "Festival Officiant",
+        "number": 93,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "26"
+    },
+    {
+        "card_name": "Qin, Earthmover",
+        "number": 126,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "33"
+    },
+    {
+        "card_name": "Light of Compassion",
+        "number": 15,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "130"
+    },
+    {
+        "card_name": "Rusalka Lotus Tender",
+        "number": 51,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "115"
+    },
+    {
+        "card_name": "Swift Execution",
+        "number": 74,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "77"
+    },
+    {
+        "card_name": "Fetch",
+        "number": 94,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "155"
+    },
+    {
+        "card_name": "Rising Dragon Initiate",
+        "number": 129,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "175"
+    },
+    {
+        "card_name": "Path to Exile",
+        "number": 17,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "37"
+    },
+    {
+        "card_name": "Scrollmaster",
+        "number": 52,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "140"
+    },
+    {
+        "card_name": "Vampiric Fortune",
+        "number": 78,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "185"
+    },
+    {
+        "card_name": "Oni Quartermaster",
+        "number": 100,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "111"
+    },
+    {
+        "card_name": "Steppe Hunter",
+        "number": 132,
+        "shape": "transform double faced",
+        "set": "DGF",
+        "position": "82"
+    },
+    {
+        "card_name": "Sun Warden",
+        "number": 24,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "128"
+    },
+    {
+        "card_name": "Telekinetic Denial",
+        "number": 53,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "143"
+    },
+    {
+        "card_name": "Bloodite Adept",
+        "number": 59,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "88"
+    },
+    {
+        "card_name": "Prasi Bandit",
+        "number": 104,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "153"
+    },
+    {
+        "card_name": "Team Takedown",
+        "number": 133,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "75"
+    },
+    {
+        "card_name": "Sun's Wrath",
+        "number": 25,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "131"
+    },
+    {
+        "card_name": "Trieu, Quill and Scroll",
+        "number": 56,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "31"
+    },
+    {
+        "card_name": "Bog Mystic",
+        "number": 61,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "25"
+    },
+    {
+        "card_name": "Tvashtar, Black-Salt Fury",
+        "number": 107,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "32"
+    },
+    {
+        "card_name": "Tectonic Growth",
+        "number": 134,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "166"
+    },
+    {
+        "card_name": "Third Sun Acolyte",
+        "number": 28,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "126"
+    },
+    {
+        "card_name": "Zawgyi Weizza",
+        "number": 57,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "110"
+    },
+    {
+        "card_name": "Cruel Partings",
+        "number": 62,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "180"
+    },
+    {
+        "card_name": "Weapons Manufacturing",
+        "number": 108,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "156"
+    },
+    {
+        "card_name": "Zhongli Regular",
+        "number": 136,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "173"
+    },
+    {
+        "card_name": "Angelic Intervention",
+        "number": 2,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "120"
+    },
+    {
+        "card_name": "Curious Patupaiarehe",
+        "number": 32,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "85"
+    },
+    {
+        "card_name": "Decadent Daywalker",
+        "number": 63,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "93"
+    },
+    {
+        "card_name": "Ancestral Chakram",
+        "number": 82,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "146"
+    },
+    {
+        "card_name": "Cultivator's Initiation",
+        "number": 110,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "172"
+    },
+    {
+        "card_name": "Daywalker Ritualist",
+        "number": 6,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "92"
+    },
+    {
+        "card_name": "Drownyards Ambusher",
+        "number": 35,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "95"
+    },
+    {
+        "card_name": "Judicator's Bite",
+        "number": 66,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "178"
+    },
+    {
+        "card_name": "Berserker's Urumi",
+        "number": 84,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "150"
+    },
+    {
+        "card_name": "Eradicator H\u0101kuturi",
+        "number": 112,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "97"
+    },
+    {
+        "card_name": "Dragonslaying",
+        "number": 9,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "39"
+    },
+    {
+        "card_name": "Foresee",
+        "number": 36,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "134"
+    },
+    {
+        "card_name": "N\u0101ga Doomsayer",
+        "number": 69,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "107"
+    },
+    {
+        "card_name": "Bloodsport Survivor",
+        "number": 85,
+        "shape": "transform double faced",
+        "set": "DGF",
+        "position": "81"
+    },
+    {
+        "card_name": "Friendly Erketu",
+        "number": 113,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "116"
+    },
+    {
+        "card_name": "H\u0101kuturi Patrol",
+        "number": 10,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "96"
+    },
+    {
+        "card_name": "Illusory Distraction",
+        "number": 37,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "123"
+    },
+    {
+        "card_name": "Reaper Mavudai",
+        "number": 70,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "61"
+    },
+    {
+        "card_name": "Cold-Forge Adept",
+        "number": 87,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "89"
+    },
+    {
+        "card_name": "Gravitic Shift",
+        "number": 114,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "170"
+    },
+    {
+        "card_name": "Improvised Shield",
+        "number": 12,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "118"
+    },
+    {
+        "card_name": "Itinerant Zawgyi",
+        "number": 38,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "101"
+    },
+    {
+        "card_name": "Stunning Gaze",
+        "number": 73,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "181"
+    },
+    {
+        "card_name": "Cold-Forge Swiftblade",
+        "number": 89,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "148"
+    },
+    {
+        "card_name": "Graviturge's Tessen",
+        "number": 115,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "168"
+    },
+    {
+        "card_name": "Last Rites Rusalka",
+        "number": 13,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "94"
+    },
+    {
+        "card_name": "Maskmaker Kitsune",
+        "number": 40,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "105"
+    },
+    {
+        "card_name": "Tragic Aid",
+        "number": 76,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "60"
+    },
+    {
+        "card_name": "Frost Bite",
+        "number": 95,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "154"
+    },
+    {
+        "card_name": "Grovetender",
+        "number": 116,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "27"
+    },
+    {
+        "card_name": "Leave No Trace",
+        "number": 14,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "119"
+    },
+    {
+        "card_name": "Mental Misdirection",
+        "number": 41,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "135"
+    },
+    {
+        "card_name": "Vampire's Kiss",
+        "number": 77,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "84"
+    },
+    {
+        "card_name": "Gold Dragonscale Mail",
+        "number": 96,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "149"
+    },
+    {
+        "card_name": "Manhunter's Companion",
+        "number": 118,
+        "shape": "transform double faced",
+        "set": "DGF",
+        "position": "80"
+    },
+    {
+        "card_name": "Oni Miststalker",
+        "number": 16,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "99"
+    },
+    {
+        "card_name": "Mind Drain",
+        "number": 42,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "133"
+    },
+    {
+        "card_name": "Wayfinding Hex",
+        "number": 80,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "179"
+    },
+    {
+        "card_name": "Impulsive Apprentice",
+        "number": 97,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "102"
+    },
+    {
+        "card_name": "N\u0101ga Frontliner",
+        "number": 119,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "108"
+    },
+    {
+        "card_name": "Qilin Harbinger",
+        "number": 19,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "98"
+    },
+    {
+        "card_name": "Mindcage",
+        "number": 43,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "138"
+    },
+    {
+        "card_name": "Y\u016brei of the Kabuki",
+        "number": 81,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "106"
+    },
+    {
+        "card_name": "Linebreaker Hammer",
+        "number": 98,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "151"
+    },
+    {
+        "card_name": "Naturalize",
+        "number": 120,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "167"
+    },
+    {
+        "card_name": "Radiant Fist Adept",
+        "number": 21,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "86"
+    },
+    {
+        "card_name": "Opt",
+        "number": 46,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "137"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Oni Warlord",
+        "number": 101,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "100"
+    },
+    {
+        "card_name": "One-Up",
+        "number": 121,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "171"
+    },
+    {
+        "card_name": "Restful Almiraj",
+        "number": 22,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "91"
+    },
+    {
+        "card_name": "Outplay",
+        "number": 47,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "136"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Opulent Mavudai",
+        "number": 102,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "62"
+    },
+    {
+        "card_name": "Patupaiarehe Suncaller",
+        "number": 122,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "104"
+    },
+    {
+        "card_name": "Sun Priest",
+        "number": 23,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "29"
+    },
+    {
+        "card_name": "River Warrior",
+        "number": 50,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "28"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Plateau Guide",
+        "number": 103,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "24"
+    },
+    {
+        "card_name": "Poka Forest Hammerskull",
+        "number": 124,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "117"
+    },
+    {
+        "card_name": "Theresal Flare",
+        "number": 27,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "121"
+    },
+    {
+        "card_name": "Third-Eye Adept",
+        "number": 54,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "87"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Rising Dragon Adept",
+        "number": 128,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "90"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Rockveil",
+        "number": 130,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "169"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Zharzimaj, Third Sun Lord",
+        "number": 139,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "18"
+    },
+    {
+        "card_name": "Atuataniwha, the Hexmage",
+        "number": 158,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "5"
+    },
+    {
+        "card_name": "Esha Kisamata, the Starborn",
+        "number": 160,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "6"
+    },
+    {
+        "card_name": "Vritrahi, Bandit Lord",
+        "number": 145,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "22"
+    },
+    {
+        "card_name": "Han Loong, Divine Lord",
+        "number": 146,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "19"
+    },
+    {
+        "card_name": "Storming the Drownyards",
+        "number": 138,
+        "shape": "double faced split",
+        "set": "DGF",
+        "position": "53"
+    },
+    {
+        "card_name": "Maui, the Hexdrinker",
+        "number": 140,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "34"
+    },
+    {
+        "card_name": "Au Co, the Dark Star",
+        "number": 142,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "35"
+    },
+    {
+        "card_name": "Seven Days War",
+        "number": 144,
+        "shape": "double faced split",
+        "set": "DGF",
+        "position": "52"
+    },
+    {
+        "card_name": "Poka Forest Hunt",
+        "number": 147,
+        "shape": "double faced split",
+        "set": "DGF",
+        "position": "56"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Rout at Aitu-Whare",
+        "number": 141,
+        "shape": "double faced split",
+        "set": "DGF",
+        "position": "57"
+    },
+    {
+        "card_name": "Cleansing the Crossroads",
+        "number": 143,
+        "shape": "double faced split",
+        "set": "DGF",
+        "position": "59"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Hexmage Ambusher",
+        "number": 159,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "79"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Han Lacuan, Slayer Lord",
+        "number": 149,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "23"
+    },
+    {
+        "card_name": "Myanaga, Transmuter Lord",
+        "number": 150,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "20"
+    },
+    {
+        "card_name": "Kiritsu Ichika, the Judicator",
+        "number": 161,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "0"
+    },
+    {
+        "card_name": "Shiryu, Usurper Lord",
+        "number": 155,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "17"
+    },
+    {
+        "card_name": "Kumiwhare, Tectonic Lord",
+        "number": 156,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "21"
+    },
+    {
+        "card_name": "Azdaja Slavanaroda, the Daywalker",
+        "number": 148,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "7"
+    },
+    {
+        "card_name": "The Philosopher War",
+        "number": 151,
+        "shape": "double faced split",
+        "set": "DGF",
+        "position": "51"
+    },
+    {
+        "card_name": "Betrayal at Khona Crossing",
+        "number": 152,
+        "shape": "double faced split",
+        "set": "DGF",
+        "position": "54"
+    },
+    {
+        "card_name": "Breaking of Shin Onryu",
+        "number": 154,
+        "shape": "double faced split",
+        "set": "DGF",
+        "position": "58"
+    },
+    {
+        "card_name": "Sinking of the Last Fleet",
+        "number": 157,
+        "shape": "double faced split",
+        "set": "DGF",
+        "position": "55"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tomoe, the Guillotine",
+        "number": 153,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "38"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Tokugawa, the Broken Blade",
+        "number": 163,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "36"
+    },
+    {
+        "card_name": "Slaying the Final Monster",
+        "number": 162,
+        "shape": "double faced split",
+        "set": "DGF",
+        "position": "40"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Cold-Forge Anvil",
+        "number": 164,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "158"
+    },
+    {
+        "card_name": "Soulgraft Kris",
+        "number": 171,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "76"
+    },
+    {
+        "card_name": "Cold-Forged Warrior",
+        "number": 166,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "160"
+    },
+    {
+        "card_name": "Cranial Plating",
+        "number": 167,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "164"
+    },
+    {
+        "card_name": "Siege Rigging",
+        "number": 170,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "165"
+    },
+    {
+        "card_name": "Cold-Forged Lion",
+        "number": 165,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "159"
+    },
+    {
+        "card_name": "Kintsugi Lattice",
+        "number": 168,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "162"
+    },
+    {
+        "card_name": "Lotus Cakes",
+        "number": 169,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "163"
+    },
+    {
+        "card_name": "Spidersilk Net",
+        "number": 172,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "161"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Shrine to Hegemony",
+        "number": 178,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "46"
+    },
+    {
+        "card_name": "Shrine to Ambition",
+        "number": 174,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "43"
+    },
+    {
+        "card_name": "Shrine to Desire",
+        "number": 177,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "44"
+    },
+    {
+        "card_name": "Shrine to Volition",
+        "number": 183,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "42"
+    },
+    {
+        "card_name": "Shrine to Pastures",
+        "number": 179,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "47"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Shrine to Secrecy",
+        "number": 181,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "48"
+    },
+    {
+        "card_name": "Shrine to Creativity",
+        "number": 175,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "45"
+    },
+    {
+        "card_name": "Shrine to Purpose",
+        "number": 180,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "41"
+    },
+    {
+        "card_name": "Shrine to Splendor",
+        "number": 182,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "49"
+    },
+    {
+        "card_name": "Shrine to Cultivation",
+        "number": 176,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "50"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Shifting Sands",
+        "number": 173,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "63"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Forest",
+        "number": 188,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "64"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 186,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "65"
+    },
+    {
+        "card_name": "Island",
+        "number": 185,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "66"
+    },
+    {
+        "card_name": "Plains",
+        "number": 184,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "67"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 187,
+        "shape": "normal",
+        "set": "DGF",
+        "position": "68"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Blood",
+        "number": 12,
+        "shape": "token",
+        "set": "DGF",
+        "position": "207"
+    },
+    {
+        "card_name": "Clue",
+        "number": 13,
+        "shape": "token",
+        "set": "DGF",
+        "position": "201"
+    },
+    {
+        "card_name": "Food",
+        "number": 14,
+        "shape": "token",
+        "set": "DGF",
+        "position": "189"
+    },
+    {
+        "card_name": "Food",
+        "number": 15,
+        "shape": "token",
+        "set": "DGF",
+        "position": "190"
+    },
+    {
+        "card_name": "Map",
+        "number": 16,
+        "shape": "token",
+        "set": "DGF",
+        "position": "206"
+    },
+    {
+        "card_name": "Munitions",
+        "number": 17,
+        "shape": "token",
+        "set": "DGF",
+        "position": "204"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 18,
+        "shape": "token",
+        "set": "DGF",
+        "position": "202"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 19,
+        "shape": "token",
+        "set": "DGF",
+        "position": "203"
+    },
+    {
+        "card_name": "Human",
+        "number": 2,
+        "shape": "token",
+        "set": "DGF",
+        "position": "191"
+    },
+    {
+        "card_name": "Human",
+        "number": 3,
+        "shape": "token",
+        "set": "DGF",
+        "position": "192"
+    },
+    {
+        "card_name": "Human",
+        "number": 4,
+        "shape": "token",
+        "set": "DGF",
+        "position": "193"
+    },
+    {
+        "card_name": "Human",
+        "number": 5,
+        "shape": "token",
+        "set": "DGF",
+        "position": "194"
+    },
+    {
+        "card_name": "Human",
+        "number": 6,
+        "shape": "token",
+        "set": "DGF",
+        "position": "195"
+    },
+    {
+        "card_name": "Human",
+        "number": 7,
+        "shape": "token",
+        "set": "DGF",
+        "position": "196"
+    },
+    {
+        "card_name": "Human",
+        "number": 8,
+        "shape": "token",
+        "set": "DGF",
+        "position": "197"
+    },
+    {
+        "card_name": "Human",
+        "number": 9,
+        "shape": "token",
+        "set": "DGF",
+        "position": "198"
+    },
+    {
+        "card_name": "Human",
+        "number": 10,
+        "shape": "token",
+        "set": "DGF",
+        "position": "199"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 11,
+        "shape": "token",
+        "set": "DGF",
+        "position": "200"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

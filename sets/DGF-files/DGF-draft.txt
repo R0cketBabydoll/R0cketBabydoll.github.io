@@ -1,0 +1,2729 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Kiritsu Ichika, the Judicator",
+			"rarity": "rare",
+			"mana_cost": "{2/B}{2/B}{B/G}",
+			"type": "Legendary Creature — Vampire Warrior",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/0.png"
+			}
+		},
+		{
+			"name": "Netra Choolha, Anvil of Passion",
+			"rarity": "rare",
+			"mana_cost": "{2/R}{2/R}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/1.png"
+			}
+		},
+		{
+			"name": "Potomok Slavanaroda, Sun Emperor",
+			"rarity": "rare",
+			"mana_cost": "{2/W}{2/W}{W}",
+			"type": "Legendary Creature — Human Noble",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/2.png"
+			}
+		},
+		{
+			"name": "Dephong Yen, Third-Eye Visionary",
+			"rarity": "rare",
+			"mana_cost": "{2/U}{2/U}{U}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/3.png"
+			}
+		},
+		{
+			"name": "Zhongli Tian Kuo, Heaven Meets Earth",
+			"rarity": "rare",
+			"mana_cost": "{2/G}{2/G}{G}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/4.png"
+			}
+		},
+		{
+			"name": "Atuataniwha, the Hexmage",
+			"rarity": "rare",
+			"mana_cost": "{2/B}{2/B}{U/B}",
+			"type": "Legendary Creature — Vampire Wizard",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/5.png"
+			}
+		},
+		{
+			"name": "Esha Kisamata, the Starborn",
+			"rarity": "rare",
+			"mana_cost": "{2/B}{2/B}{B/R}",
+			"type": "Legendary Creature — Vampire Rogue",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/6.png"
+			}
+		},
+		{
+			"name": "Azdaja Slavanaroda, the Daywalker",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Vampire Advisor",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/7.png"
+			}
+		},
+		{
+			"name": "Tradition of Psionics",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{U}{U}",
+			"type": "Enchantment — Class",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/8.png"
+			}
+		},
+		{
+			"name": "Tradition of Energy",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Enchantment — Class",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/9.png"
+			}
+		},
+		{
+			"name": "Tradition of Gravity",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{G}{G}",
+			"type": "Enchantment — Class",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/10.png"
+			}
+		},
+		{
+			"name": "Tradition of Radiation",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Enchantment — Class",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/11.png"
+			}
+		},
+		{
+			"name": "Tradition of Blood",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Enchantment — Class",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/12.png"
+			}
+		},
+		{
+			"name": "Thawing the Tundra",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/13.png"
+			}
+		},
+		{
+			"name": "Dominion of the Isle",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/14.png"
+			}
+		},
+		{
+			"name": "Erosion of the Dunes",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/15.png"
+			}
+		},
+		{
+			"name": "Raising the Woods",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/16.png"
+			}
+		},
+		{
+			"name": "Shiryu, Usurper Lord",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Creature — Dragon Soldier",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/17.png"
+			}
+		},
+		{
+			"name": "Zharzimaj, Third Sun Lord",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}{U}",
+			"type": "Legendary Creature — Dragon Cleric",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/18.png"
+			}
+		},
+		{
+			"name": "Han Loong, Divine Lord",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}{W}",
+			"type": "Legendary Creature — Dragon Noble",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/19.png"
+			}
+		},
+		{
+			"name": "Myanaga, Transmuter Lord",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}{R}",
+			"type": "Legendary Creature — Dragon Monk",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/20.png"
+			}
+		},
+		{
+			"name": "Kumiwhare, Tectonic Lord",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Dragon Wizard",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/21.png"
+			}
+		},
+		{
+			"name": "Vritrahi, Bandit Lord",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}{G}",
+			"type": "Legendary Creature — Dragon Rogue",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/22.png"
+			}
+		},
+		{
+			"name": "Han Lacuan, Slayer Lord",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}{B}",
+			"type": "Legendary Creature — Dragon Warrior",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/23.png"
+			}
+		},
+		{
+			"name": "Plateau Guide",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon Scout",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/24.png"
+			}
+		},
+		{
+			"name": "Bog Mystic",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Dragon Wizard",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/25.png"
+			}
+		},
+		{
+			"name": "Festival Officiant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Dragon Performer",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/26.png"
+			}
+		},
+		{
+			"name": "Grovetender",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Dragon Druid",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/27.png"
+			}
+		},
+		{
+			"name": "River Warrior",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Dragon Warrior",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/28.png"
+			}
+		},
+		{
+			"name": "Sun Priest",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Dragon Cleric",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/29.png"
+			}
+		},
+		{
+			"name": "Dobrynya, Starbreaker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/30.png"
+			}
+		},
+		{
+			"name": "Trieu, Quill and Scroll",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/31.png"
+			}
+		},
+		{
+			"name": "Tvashtar, Black-Salt Fury",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/32.png"
+			}
+		},
+		{
+			"name": "Qin, Earthmover",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/33.png"
+			}
+		},
+		{
+			"name": "Maui, the Hexdrinker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/34.png"
+			}
+		},
+		{
+			"name": "Au Co, the Dark Star",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/35.png"
+			}
+		},
+		{
+			"name": "Tokugawa, the Broken Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W/B}{B/G}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/36.png"
+			}
+		},
+		{
+			"name": "Path to Exile",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/37.png"
+			}
+		},
+		{
+			"name": "Tomoe, the Guillotine",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/38.png"
+			}
+		},
+		{
+			"name": "Dragonslaying",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/39.png"
+			}
+		},
+		{
+			"name": "Slaying the Final Monster",
+			"rarity": "rare",
+			"mana_cost": "{W/B}{U/B}{B/R}{B/G}",
+			"type": "Battle — Siege",
+			"collector_number": "162",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/40_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/40_front.png"
+			}
+		},
+		{
+			"name": "Shrine to Purpose",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/41.png"
+			}
+		},
+		{
+			"name": "Shrine to Volition",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/42.png"
+			}
+		},
+		{
+			"name": "Shrine to Ambition",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/43.png"
+			}
+		},
+		{
+			"name": "Shrine to Desire",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/44.png"
+			}
+		},
+		{
+			"name": "Shrine to Creativity",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/45.png"
+			}
+		},
+		{
+			"name": "Shrine to Hegemony",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/46.png"
+			}
+		},
+		{
+			"name": "Shrine to Pastures",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/47.png"
+			}
+		},
+		{
+			"name": "Shrine to Secrecy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/48.png"
+			}
+		},
+		{
+			"name": "Shrine to Splendor",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/49.png"
+			}
+		},
+		{
+			"name": "Shrine to Cultivation",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/50.png"
+			}
+		},
+		{
+			"name": "The Philosopher War",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Battle — Siege",
+			"collector_number": "151",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/51_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/51_front.png"
+			}
+		},
+		{
+			"name": "Seven Days War",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Battle — Siege",
+			"collector_number": "144",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/52_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/52_front.png"
+			}
+		},
+		{
+			"name": "Storming the Drownyards",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Battle — Siege",
+			"collector_number": "138",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/53_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/53_front.png"
+			}
+		},
+		{
+			"name": "Betrayal at Khona Crossing",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Battle — Siege",
+			"collector_number": "152",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/54_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/54_front.png"
+			}
+		},
+		{
+			"name": "Sinking of the Last Fleet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Battle — Siege",
+			"collector_number": "157",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/55_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/55_front.png"
+			}
+		},
+		{
+			"name": "Poka Forest Hunt",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Battle — Siege",
+			"collector_number": "147",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/56_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/56_front.png"
+			}
+		},
+		{
+			"name": "Rout at Aitu-Whare",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Battle — Siege",
+			"collector_number": "141",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/57_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/57_front.png"
+			}
+		},
+		{
+			"name": "Breaking of Shin Onryu",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Battle — Siege",
+			"collector_number": "154",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/58_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/58_front.png"
+			}
+		},
+		{
+			"name": "Cleansing the Crossroads",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Battle — Siege",
+			"collector_number": "143",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/59_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/59_front.png"
+			}
+		},
+		{
+			"name": "Tragic Aid",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/60.png"
+			}
+		},
+		{
+			"name": "Reaper Mavudai",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/61.png"
+			}
+		},
+		{
+			"name": "Opulent Mavudai",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/62.png"
+			}
+		},
+		{
+			"name": "Shifting Sands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/63.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/64.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/65.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/66.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/67.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/68.png"
+			}
+		},
+		{
+			"name": "Ancient Red Dragon",
+			"rarity": "mythic",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Creature — Elder Dragon",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/69.png"
+			}
+		},
+		{
+			"name": "Ancient Black Dragon",
+			"rarity": "mythic",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/70.png"
+			}
+		},
+		{
+			"name": "Ancient Blue Dragon",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/71.png"
+			}
+		},
+		{
+			"name": "Ancient White Dragon",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Elder Dragon",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/72.png"
+			}
+		},
+		{
+			"name": "Ancient Green Dragon",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Elder Dragon",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/73.png"
+			}
+		},
+		{
+			"name": "Pouncing Grovetender",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Dragon Ranger",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/74.png"
+			}
+		},
+		{
+			"name": "Team Takedown",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/75.png"
+			}
+		},
+		{
+			"name": "Soulgraft Kris",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/76.png"
+			}
+		},
+		{
+			"name": "Swift Execution",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/77.png"
+			}
+		},
+		{
+			"name": "Kitsune Shinigame",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/78.png"
+			}
+		},
+		{
+			"name": "Hexmage Ambusher",
+			"rarity": "uncommon",
+			"mana_cost": "{U/B}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/79.png"
+			}
+		},
+		{
+			"name": "Manhunter's Companion",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "118",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/80_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/80_front.png"
+			}
+		},
+		{
+			"name": "Bloodsport Survivor",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Cat",
+			"collector_number": "85",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/81_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/81_front.png"
+			}
+		},
+		{
+			"name": "Steppe Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "132",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/82_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/82_front.png"
+			}
+		},
+		{
+			"name": "Brazen Mavudai",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/83.png"
+			}
+		},
+		{
+			"name": "Vampire's Kiss",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/84.png"
+			}
+		},
+		{
+			"name": "Curious Patupaiarehe",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elf",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/85.png"
+			}
+		},
+		{
+			"name": "Radiant Fist Adept",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/86.png"
+			}
+		},
+		{
+			"name": "Third-Eye Adept",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/87.png"
+			}
+		},
+		{
+			"name": "Bloodite Adept",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Monk",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/88.png"
+			}
+		},
+		{
+			"name": "Cold-Forge Adept",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Monk",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/89.png"
+			}
+		},
+		{
+			"name": "Rising Dragon Adept",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Monk",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/90.png"
+			}
+		},
+		{
+			"name": "Restful Almiraj",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Rabbit",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/91.png"
+			}
+		},
+		{
+			"name": "Daywalker Ritualist",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Vampire Cleric",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/92.png"
+			}
+		},
+		{
+			"name": "Decadent Daywalker",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Vampire Noble",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/93.png"
+			}
+		},
+		{
+			"name": "Last Rites Rusalka",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Merfolk Cleric",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/94.png"
+			}
+		},
+		{
+			"name": "Drownyards Ambusher",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/95.png"
+			}
+		},
+		{
+			"name": "Hākuturi Patrol",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Harpy Scout",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/96.png"
+			}
+		},
+		{
+			"name": "Eradicator Hākuturi",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Harpy Berserker",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/97.png"
+			}
+		},
+		{
+			"name": "Qilin Harbinger",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Unicorn",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/98.png"
+			}
+		},
+		{
+			"name": "Oni Miststalker",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Ogre Warrior",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/99.png"
+			}
+		},
+		{
+			"name": "Oni Warlord",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Ogre Soldier",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/100.png"
+			}
+		},
+		{
+			"name": "Itinerant Zawgyi",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/101.png"
+			}
+		},
+		{
+			"name": "Impulsive Apprentice",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/102.png"
+			}
+		},
+		{
+			"name": "Lotus Mage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/103.png"
+			}
+		},
+		{
+			"name": "Patupaiarehe Suncaller",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Wizard",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/104.png"
+			}
+		},
+		{
+			"name": "Maskmaker Kitsune",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Spirit Cleric",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/105.png"
+			}
+		},
+		{
+			"name": "Yūrei of the Kabuki",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Spirit Performer",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/106.png"
+			}
+		},
+		{
+			"name": "Nāga Doomsayer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Gorgon Wizard",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/107.png"
+			}
+		},
+		{
+			"name": "Nāga Frontliner",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Gorgon Scout",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/108.png"
+			}
+		},
+		{
+			"name": "Nāga Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Gorgon Warrior",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/109.png"
+			}
+		},
+		{
+			"name": "Zawgyi Weizza",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/110.png"
+			}
+		},
+		{
+			"name": "Oni Quartermaster",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Ogre Artificer",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/111.png"
+			}
+		},
+		{
+			"name": "Hākuturi Queen",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Harpy Noble",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/112.png"
+			}
+		},
+		{
+			"name": "Dog's Best Friend",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Vampire Guest",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/113.png"
+			}
+		},
+		{
+			"name": "Daywalker Monster Slayer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Vampire Warrior",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/114.png"
+			}
+		},
+		{
+			"name": "Rusalka Lotus Tender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/115.png"
+			}
+		},
+		{
+			"name": "Friendly Erketu",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/116.png"
+			}
+		},
+		{
+			"name": "Poka Forest Hammerskull",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/117.png"
+			}
+		},
+		{
+			"name": "Improvised Shield",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/118.png"
+			}
+		},
+		{
+			"name": "Leave No Trace",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/119.png"
+			}
+		},
+		{
+			"name": "Angelic Intervention",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/120.png"
+			}
+		},
+		{
+			"name": "Theresal Flare",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/121.png"
+			}
+		},
+		{
+			"name": "Allure of the Rusalka",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/122.png"
+			}
+		},
+		{
+			"name": "Illusory Distraction",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/123.png"
+			}
+		},
+		{
+			"name": "Dragonfall, Netra's Masterwork",
+			"rarity": "masterpiece",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/124.png"
+			}
+		},
+		{
+			"name": "Dragonfall, Netra's Masterwork",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/125.png"
+			}
+		},
+		{
+			"name": "Third Sun Acolyte",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Dragon Cleric",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/126.png"
+			}
+		},
+		{
+			"name": "Bakali Orthodox",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/127.png"
+			}
+		},
+		{
+			"name": "Sun Warden",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/128.png"
+			}
+		},
+		{
+			"name": "Bakali Convert",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/129.png"
+			}
+		},
+		{
+			"name": "Light of Compassion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/130.png"
+			}
+		},
+		{
+			"name": "Sun's Wrath",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/131.png"
+			}
+		},
+		{
+			"name": "Radiant Bastion",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/132.png"
+			}
+		},
+		{
+			"name": "Mind Drain",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/133.png"
+			}
+		},
+		{
+			"name": "Foresee",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/134.png"
+			}
+		},
+		{
+			"name": "Mental Misdirection",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/135.png"
+			}
+		},
+		{
+			"name": "Outplay",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/136.png"
+			}
+		},
+		{
+			"name": "Opt",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/137.png"
+			}
+		},
+		{
+			"name": "Mindcage",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/138.png"
+			}
+		},
+		{
+			"name": "Pearl Philosopher",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Dragon Wizard",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/139.png"
+			}
+		},
+		{
+			"name": "Scrollmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/140.png"
+			}
+		},
+		{
+			"name": "Narset's Disciple",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/141.png"
+			}
+		},
+		{
+			"name": "Psychic Discipline",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/142.png"
+			}
+		},
+		{
+			"name": "Telekinetic Denial",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/143.png"
+			}
+		},
+		{
+			"name": "Lotus Field Lessons",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Sorcery — Lesson",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/144.png"
+			}
+		},
+		{
+			"name": "Moment Reader",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/145.png"
+			}
+		},
+		{
+			"name": "Ancestral Chakram",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/146.png"
+			}
+		},
+		{
+			"name": "Cool Under Pressure",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Snow Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/147.png"
+			}
+		},
+		{
+			"name": "Cold-Forge Swiftblade",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/148.png"
+			}
+		},
+		{
+			"name": "Gold Dragonscale Mail",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/149.png"
+			}
+		},
+		{
+			"name": "Berserker's Urumi",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/150.png"
+			}
+		},
+		{
+			"name": "Linebreaker Hammer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/151.png"
+			}
+		},
+		{
+			"name": "Cold-Forge Artisan",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/152.png"
+			}
+		},
+		{
+			"name": "Prasi Bandit",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/153.png"
+			}
+		},
+		{
+			"name": "Frost Bite",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Snow Instant",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/154.png"
+			}
+		},
+		{
+			"name": "Fetch",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/155.png"
+			}
+		},
+		{
+			"name": "Weapons Manufacturing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/156.png"
+			}
+		},
+		{
+			"name": "Three Traditions Adept",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Vampire Monk",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/157.png"
+			}
+		},
+		{
+			"name": "Cold-Forge Anvil",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/158.png"
+			}
+		},
+		{
+			"name": "Cold-Forged Lion",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/159.png"
+			}
+		},
+		{
+			"name": "Cold-Forged Warrior",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct Soldier",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/160.png"
+			}
+		},
+		{
+			"name": "Spidersilk Net",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/161.png"
+			}
+		},
+		{
+			"name": "Kintsugi Lattice",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Treasure",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/162.png"
+			}
+		},
+		{
+			"name": "Lotus Cakes",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Food",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/163.png"
+			}
+		},
+		{
+			"name": "Cranial Plating",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/164.png"
+			}
+		},
+		{
+			"name": "Siege Rigging",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/165.png"
+			}
+		},
+		{
+			"name": "Tectonic Growth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/166.png"
+			}
+		},
+		{
+			"name": "Naturalize",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/167.png"
+			}
+		},
+		{
+			"name": "Graviturge's Tessen",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/168.png"
+			}
+		},
+		{
+			"name": "Rockveil",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/169.png"
+			}
+		},
+		{
+			"name": "Gravitic Shift",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/170.png"
+			}
+		},
+		{
+			"name": "One-Up",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/171.png"
+			}
+		},
+		{
+			"name": "Cultivator's Initiation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery — Lesson",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/172.png"
+			}
+		},
+		{
+			"name": "Zhongli Regular",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/173.png"
+			}
+		},
+		{
+			"name": "Dynasty Warlord",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/174.png"
+			}
+		},
+		{
+			"name": "Rising Dragon Initiate",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Human Monk",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/175.png"
+			}
+		},
+		{
+			"name": "Sage of the Ascent",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Monk",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/176.png"
+			}
+		},
+		{
+			"name": "Penumbra Rites",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/177.png"
+			}
+		},
+		{
+			"name": "Judicator's Bite",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/178.png"
+			}
+		},
+		{
+			"name": "Wayfinding Hex",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/179.png"
+			}
+		},
+		{
+			"name": "Cruel Partings",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/180.png"
+			}
+		},
+		{
+			"name": "Stunning Gaze",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/181.png"
+			}
+		},
+		{
+			"name": "Judicator Magistrate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Vampire Advisor",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/182.png"
+			}
+		},
+		{
+			"name": "Hand of Fate",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/183.png"
+			}
+		},
+		{
+			"name": "Share the Curse",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/184.png"
+			}
+		},
+		{
+			"name": "Vampiric Fortune",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/185.png"
+			}
+		},
+		{
+			"name": "Rebalance",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/186.png"
+			}
+		},
+		{
+			"name": "Bloodite Aswang",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Wizard",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/187.png"
+			}
+		},
+		{
+			"name": "War Haka",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/188.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/189.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/190.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/191.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/192.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/193.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/194.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/195.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/196.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/197.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/198.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/199.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/200.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/201.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/202.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/203.png"
+			}
+		},
+		{
+			"name": "Munitions",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/204.png"
+			}
+		},
+		{
+			"name": "Mavudai Offspring",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Demon",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/205.png"
+			}
+		},
+		{
+			"name": "Map",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Map",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/206.png"
+			}
+		},
+		{
+			"name": "Blood",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Blood",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://R0cketBabydoll.github.io/sets/DGF-files/img/207.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Kiritsu Ichika, the Judicator
+	2 Netra Choolha, Anvil of Passion
+	2 Potomok Slavanaroda, Sun Emperor
+	2 Dephong Yen, Third-Eye Visionary
+	2 Zhongli Tian Kuo, Heaven Meets Earth
+	2 Atuataniwha, the Hexmage
+	2 Esha Kisamata, the Starborn
+	1 Tradition of Psionics
+	1 Tradition of Energy
+	1 Tradition of Gravity
+	1 Tradition of Radiation
+	1 Tradition of Blood
+	2 Thawing the Tundra
+	2 Dominion of the Isle
+	2 Erosion of the Dunes
+	2 Raising the Woods
+	2 Shiryu, Usurper Lord
+	2 Zharzimaj, Third Sun Lord
+	2 Han Loong, Divine Lord
+	2 Myanaga, Transmuter Lord
+	2 Kumiwhare, Tectonic Lord
+	2 Vritrahi, Bandit Lord
+	2 Han Lacuan, Slayer Lord
+	2 Slaying the Final Monster
+	1 Ancient Red Dragon
+	1 Ancient Black Dragon
+	1 Ancient Blue Dragon
+	1 Ancient White Dragon
+	1 Ancient Green Dragon
+	2 Soulgraft Kris
+	2 Dog's Best Friend
+	2 Allure of the Rusalka
+	2 Dragonfall, Netra's Masterwork
+	2 Radiant Bastion
+	2 Moment Reader
+	2 Three Traditions Adept
+	2 Cold-Forge Anvil
+	2 Sage of the Ascent
+	2 Penumbra Rites
+	2 Bloodite Aswang
+	2 War Haka
+[uncommon(3)]
+	4 Azdaja Slavanaroda, the Daywalker
+	4 Festival Officiant
+	4 Dobrynya, Starbreaker
+	4 Trieu, Quill and Scroll
+	4 Tvashtar, Black-Salt Fury
+	4 Qin, Earthmover
+	4 Maui, the Hexdrinker
+	4 Au Co, the Dark Star
+	4 Tokugawa, the Broken Blade
+	4 Path to Exile
+	4 Tomoe, the Guillotine
+	4 The Philosopher War
+	4 Seven Days War
+	4 Storming the Drownyards
+	4 Betrayal at Khona Crossing
+	4 Sinking of the Last Fleet
+	4 Poka Forest Hunt
+	4 Rout at Aitu-Whare
+	4 Breaking of Shin Onryu
+	4 Cleansing the Crossroads
+	4 Pouncing Grovetender
+	4 Team Takedown
+	4 Swift Execution
+	4 Kitsune Shinigame
+	4 Hexmage Ambusher
+	4 Steppe Hunter
+	4 Brazen Mavudai
+	4 Lotus Mage
+	4 Nāga Champion
+	4 Zawgyi Weizza
+	4 Oni Quartermaster
+	4 Hākuturi Queen
+	4 Daywalker Monster Slayer
+	4 Rusalka Lotus Tender
+	4 Third Sun Acolyte
+	4 Bakali Orthodox
+	4 Sun Warden
+	4 Bakali Convert
+	4 Light of Compassion
+	4 Sun's Wrath
+	4 Pearl Philosopher
+	4 Scrollmaster
+	4 Narset's Disciple
+	4 Psychic Discipline
+	4 Telekinetic Denial
+	4 Lotus Field Lessons
+	4 Cool Under Pressure
+	4 Cold-Forge Artisan
+	4 Prasi Bandit
+	4 Fetch
+	4 Weapons Manufacturing
+	4 Cold-Forged Warrior
+	4 Cranial Plating
+	4 Siege Rigging
+	4 Tectonic Growth
+	4 Zhongli Regular
+	4 Dynasty Warlord
+	4 Rising Dragon Initiate
+	4 Judicator Magistrate
+	4 Hand of Fate
+	4 Share the Curse
+	4 Vampiric Fortune
+	4 Rebalance
+[common(7)]
+	8 Plateau Guide
+	8 Bog Mystic
+	8 Grovetender
+	8 River Warrior
+	8 Sun Priest
+	8 Dragonslaying
+	8 Shrine to Purpose
+	8 Shrine to Volition
+	8 Shrine to Ambition
+	8 Shrine to Desire
+	8 Shrine to Creativity
+	8 Shrine to Hegemony
+	8 Shrine to Pastures
+	8 Shrine to Secrecy
+	8 Shrine to Splendor
+	8 Shrine to Cultivation
+	8 Tragic Aid
+	8 Reaper Mavudai
+	8 Opulent Mavudai
+	8 Shifting Sands
+	8 Manhunter's Companion
+	8 Bloodsport Survivor
+	8 Vampire's Kiss
+	8 Curious Patupaiarehe
+	8 Radiant Fist Adept
+	8 Third-Eye Adept
+	8 Bloodite Adept
+	8 Cold-Forge Adept
+	8 Rising Dragon Adept
+	8 Restful Almiraj
+	8 Daywalker Ritualist
+	8 Decadent Daywalker
+	8 Last Rites Rusalka
+	8 Drownyards Ambusher
+	8 Hākuturi Patrol
+	8 Eradicator Hākuturi
+	8 Qilin Harbinger
+	8 Oni Miststalker
+	8 Oni Warlord
+	8 Itinerant Zawgyi
+	8 Impulsive Apprentice
+	8 Patupaiarehe Suncaller
+	8 Maskmaker Kitsune
+	8 Yūrei of the Kabuki
+	8 Nāga Doomsayer
+	8 Nāga Frontliner
+	8 Friendly Erketu
+	8 Poka Forest Hammerskull
+	8 Improvised Shield
+	8 Leave No Trace
+	8 Angelic Intervention
+	8 Theresal Flare
+	8 Illusory Distraction
+	8 Mind Drain
+	8 Foresee
+	8 Mental Misdirection
+	8 Outplay
+	8 Opt
+	8 Mindcage
+	8 Ancestral Chakram
+	8 Cold-Forge Swiftblade
+	8 Gold Dragonscale Mail
+	8 Berserker's Urumi
+	8 Linebreaker Hammer
+	8 Frost Bite
+	8 Cold-Forged Lion
+	8 Spidersilk Net
+	8 Kintsugi Lattice
+	8 Lotus Cakes
+	8 Naturalize
+	8 Graviturge's Tessen
+	8 Rockveil
+	8 Gravitic Shift
+	8 One-Up
+	8 Cultivator's Initiation
+	8 Judicator's Bite
+	8 Wayfinding Hex
+	8 Cruel Partings
+	8 Stunning Gaze
+[foil(1)]
+	2 Kiritsu Ichika, the Judicator
+	2 Netra Choolha, Anvil of Passion
+	2 Potomok Slavanaroda, Sun Emperor
+	2 Dephong Yen, Third-Eye Visionary
+	2 Zhongli Tian Kuo, Heaven Meets Earth
+	2 Atuataniwha, the Hexmage
+	2 Esha Kisamata, the Starborn
+	6 Azdaja Slavanaroda, the Daywalker
+	1 Tradition of Psionics
+	1 Tradition of Energy
+	1 Tradition of Gravity
+	1 Tradition of Radiation
+	1 Tradition of Blood
+	2 Thawing the Tundra
+	2 Dominion of the Isle
+	2 Erosion of the Dunes
+	2 Raising the Woods
+	2 Shiryu, Usurper Lord
+	2 Zharzimaj, Third Sun Lord
+	2 Han Loong, Divine Lord
+	2 Myanaga, Transmuter Lord
+	2 Kumiwhare, Tectonic Lord
+	2 Vritrahi, Bandit Lord
+	2 Han Lacuan, Slayer Lord
+	12 Plateau Guide
+	12 Bog Mystic
+	6 Festival Officiant
+	12 Grovetender
+	12 River Warrior
+	12 Sun Priest
+	6 Dobrynya, Starbreaker
+	6 Trieu, Quill and Scroll
+	6 Tvashtar, Black-Salt Fury
+	6 Qin, Earthmover
+	6 Maui, the Hexdrinker
+	6 Au Co, the Dark Star
+	6 Tokugawa, the Broken Blade
+	6 Path to Exile
+	6 Tomoe, the Guillotine
+	12 Dragonslaying
+	2 Slaying the Final Monster
+	12 Shrine to Purpose
+	12 Shrine to Volition
+	12 Shrine to Ambition
+	12 Shrine to Desire
+	12 Shrine to Creativity
+	12 Shrine to Hegemony
+	12 Shrine to Pastures
+	12 Shrine to Secrecy
+	12 Shrine to Splendor
+	12 Shrine to Cultivation
+	6 The Philosopher War
+	6 Seven Days War
+	6 Storming the Drownyards
+	6 Betrayal at Khona Crossing
+	6 Sinking of the Last Fleet
+	6 Poka Forest Hunt
+	6 Rout at Aitu-Whare
+	6 Breaking of Shin Onryu
+	6 Cleansing the Crossroads
+	12 Tragic Aid
+	12 Reaper Mavudai
+	12 Opulent Mavudai
+	12 Shifting Sands
+	1 Ancient Red Dragon
+	1 Ancient Black Dragon
+	1 Ancient Blue Dragon
+	1 Ancient White Dragon
+	1 Ancient Green Dragon
+	6 Pouncing Grovetender
+	6 Team Takedown
+	2 Soulgraft Kris
+	6 Swift Execution
+	6 Kitsune Shinigame
+	6 Hexmage Ambusher
+	12 Manhunter's Companion
+	12 Bloodsport Survivor
+	6 Steppe Hunter
+	6 Brazen Mavudai
+	12 Vampire's Kiss
+	12 Curious Patupaiarehe
+	12 Radiant Fist Adept
+	12 Third-Eye Adept
+	12 Bloodite Adept
+	12 Cold-Forge Adept
+	12 Rising Dragon Adept
+	12 Restful Almiraj
+	12 Daywalker Ritualist
+	12 Decadent Daywalker
+	12 Last Rites Rusalka
+	12 Drownyards Ambusher
+	12 Hākuturi Patrol
+	12 Eradicator Hākuturi
+	12 Qilin Harbinger
+	12 Oni Miststalker
+	12 Oni Warlord
+	12 Itinerant Zawgyi
+	12 Impulsive Apprentice
+	6 Lotus Mage
+	12 Patupaiarehe Suncaller
+	12 Maskmaker Kitsune
+	12 Yūrei of the Kabuki
+	12 Nāga Doomsayer
+	12 Nāga Frontliner
+	6 Nāga Champion
+	6 Zawgyi Weizza
+	6 Oni Quartermaster
+	6 Hākuturi Queen
+	2 Dog's Best Friend
+	6 Daywalker Monster Slayer
+	6 Rusalka Lotus Tender
+	12 Friendly Erketu
+	12 Poka Forest Hammerskull
+	12 Improvised Shield
+	12 Leave No Trace
+	12 Angelic Intervention
+	12 Theresal Flare
+	2 Allure of the Rusalka
+	12 Illusory Distraction
+	2 Dragonfall, Netra's Masterwork
+	6 Third Sun Acolyte
+	6 Bakali Orthodox
+	6 Sun Warden
+	6 Bakali Convert
+	6 Light of Compassion
+	6 Sun's Wrath
+	2 Radiant Bastion
+	12 Mind Drain
+	12 Foresee
+	12 Mental Misdirection
+	12 Outplay
+	12 Opt
+	12 Mindcage
+	6 Pearl Philosopher
+	6 Scrollmaster
+	6 Narset's Disciple
+	6 Psychic Discipline
+	6 Telekinetic Denial
+	6 Lotus Field Lessons
+	2 Moment Reader
+	12 Ancestral Chakram
+	6 Cool Under Pressure
+	12 Cold-Forge Swiftblade
+	12 Gold Dragonscale Mail
+	12 Berserker's Urumi
+	12 Linebreaker Hammer
+	6 Cold-Forge Artisan
+	6 Prasi Bandit
+	12 Frost Bite
+	6 Fetch
+	6 Weapons Manufacturing
+	2 Three Traditions Adept
+	2 Cold-Forge Anvil
+	12 Cold-Forged Lion
+	6 Cold-Forged Warrior
+	12 Spidersilk Net
+	12 Kintsugi Lattice
+	12 Lotus Cakes
+	6 Cranial Plating
+	6 Siege Rigging
+	6 Tectonic Growth
+	12 Naturalize
+	12 Graviturge's Tessen
+	12 Rockveil
+	12 Gravitic Shift
+	12 One-Up
+	12 Cultivator's Initiation
+	6 Zhongli Regular
+	6 Dynasty Warlord
+	6 Rising Dragon Initiate
+	2 Sage of the Ascent
+	2 Penumbra Rites
+	12 Judicator's Bite
+	12 Wayfinding Hex
+	12 Cruel Partings
+	12 Stunning Gaze
+	6 Judicator Magistrate
+	6 Hand of Fate
+	6 Share the Curse
+	6 Vampiric Fortune
+	6 Rebalance
+	2 Bloodite Aswang
+	2 War Haka
+[wildcard(1)]
+	7 Kiritsu Ichika, the Judicator
+	7 Netra Choolha, Anvil of Passion
+	7 Potomok Slavanaroda, Sun Emperor
+	7 Dephong Yen, Third-Eye Visionary
+	7 Zhongli Tian Kuo, Heaven Meets Earth
+	7 Atuataniwha, the Hexmage
+	7 Esha Kisamata, the Starborn
+	15 Azdaja Slavanaroda, the Daywalker
+	4 Tradition of Psionics
+	4 Tradition of Energy
+	4 Tradition of Gravity
+	4 Tradition of Radiation
+	4 Tradition of Blood
+	7 Thawing the Tundra
+	7 Dominion of the Isle
+	7 Erosion of the Dunes
+	7 Raising the Woods
+	7 Shiryu, Usurper Lord
+	7 Zharzimaj, Third Sun Lord
+	7 Han Loong, Divine Lord
+	7 Myanaga, Transmuter Lord
+	7 Kumiwhare, Tectonic Lord
+	7 Vritrahi, Bandit Lord
+	7 Han Lacuan, Slayer Lord
+	6 Plateau Guide
+	6 Bog Mystic
+	15 Festival Officiant
+	6 Grovetender
+	6 River Warrior
+	6 Sun Priest
+	15 Dobrynya, Starbreaker
+	15 Trieu, Quill and Scroll
+	15 Tvashtar, Black-Salt Fury
+	15 Qin, Earthmover
+	15 Maui, the Hexdrinker
+	15 Au Co, the Dark Star
+	15 Tokugawa, the Broken Blade
+	15 Path to Exile
+	15 Tomoe, the Guillotine
+	6 Dragonslaying
+	7 Slaying the Final Monster
+	6 Shrine to Purpose
+	6 Shrine to Volition
+	6 Shrine to Ambition
+	6 Shrine to Desire
+	6 Shrine to Creativity
+	6 Shrine to Hegemony
+	6 Shrine to Pastures
+	6 Shrine to Secrecy
+	6 Shrine to Splendor
+	6 Shrine to Cultivation
+	15 The Philosopher War
+	15 Seven Days War
+	15 Storming the Drownyards
+	15 Betrayal at Khona Crossing
+	15 Sinking of the Last Fleet
+	15 Poka Forest Hunt
+	15 Rout at Aitu-Whare
+	15 Breaking of Shin Onryu
+	15 Cleansing the Crossroads
+	6 Tragic Aid
+	6 Reaper Mavudai
+	6 Opulent Mavudai
+	6 Shifting Sands
+	4 Ancient Red Dragon
+	4 Ancient Black Dragon
+	4 Ancient Blue Dragon
+	4 Ancient White Dragon
+	4 Ancient Green Dragon
+	15 Pouncing Grovetender
+	15 Team Takedown
+	7 Soulgraft Kris
+	15 Swift Execution
+	15 Kitsune Shinigame
+	15 Hexmage Ambusher
+	6 Manhunter's Companion
+	6 Bloodsport Survivor
+	15 Steppe Hunter
+	15 Brazen Mavudai
+	6 Vampire's Kiss
+	6 Curious Patupaiarehe
+	6 Radiant Fist Adept
+	6 Third-Eye Adept
+	6 Bloodite Adept
+	6 Cold-Forge Adept
+	6 Rising Dragon Adept
+	6 Restful Almiraj
+	6 Daywalker Ritualist
+	6 Decadent Daywalker
+	6 Last Rites Rusalka
+	6 Drownyards Ambusher
+	6 Hākuturi Patrol
+	6 Eradicator Hākuturi
+	6 Qilin Harbinger
+	6 Oni Miststalker
+	6 Oni Warlord
+	6 Itinerant Zawgyi
+	6 Impulsive Apprentice
+	15 Lotus Mage
+	6 Patupaiarehe Suncaller
+	6 Maskmaker Kitsune
+	6 Yūrei of the Kabuki
+	6 Nāga Doomsayer
+	6 Nāga Frontliner
+	15 Nāga Champion
+	15 Zawgyi Weizza
+	15 Oni Quartermaster
+	15 Hākuturi Queen
+	7 Dog's Best Friend
+	15 Daywalker Monster Slayer
+	15 Rusalka Lotus Tender
+	6 Friendly Erketu
+	6 Poka Forest Hammerskull
+	6 Improvised Shield
+	6 Leave No Trace
+	6 Angelic Intervention
+	6 Theresal Flare
+	7 Allure of the Rusalka
+	6 Illusory Distraction
+	7 Dragonfall, Netra's Masterwork
+	15 Third Sun Acolyte
+	15 Bakali Orthodox
+	15 Sun Warden
+	15 Bakali Convert
+	15 Light of Compassion
+	15 Sun's Wrath
+	7 Radiant Bastion
+	6 Mind Drain
+	6 Foresee
+	6 Mental Misdirection
+	6 Outplay
+	6 Opt
+	6 Mindcage
+	15 Pearl Philosopher
+	15 Scrollmaster
+	15 Narset's Disciple
+	15 Psychic Discipline
+	15 Telekinetic Denial
+	15 Lotus Field Lessons
+	7 Moment Reader
+	6 Ancestral Chakram
+	15 Cool Under Pressure
+	6 Cold-Forge Swiftblade
+	6 Gold Dragonscale Mail
+	6 Berserker's Urumi
+	6 Linebreaker Hammer
+	15 Cold-Forge Artisan
+	15 Prasi Bandit
+	6 Frost Bite
+	15 Fetch
+	15 Weapons Manufacturing
+	7 Three Traditions Adept
+	7 Cold-Forge Anvil
+	6 Cold-Forged Lion
+	15 Cold-Forged Warrior
+	6 Spidersilk Net
+	6 Kintsugi Lattice
+	6 Lotus Cakes
+	15 Cranial Plating
+	15 Siege Rigging
+	15 Tectonic Growth
+	6 Naturalize
+	6 Graviturge's Tessen
+	6 Rockveil
+	6 Gravitic Shift
+	6 One-Up
+	6 Cultivator's Initiation
+	15 Zhongli Regular
+	15 Dynasty Warlord
+	15 Rising Dragon Initiate
+	7 Sage of the Ascent
+	7 Penumbra Rites
+	6 Judicator's Bite
+	6 Wayfinding Hex
+	6 Cruel Partings
+	6 Stunning Gaze
+	15 Judicator Magistrate
+	15 Hand of Fate
+	15 Share the Curse
+	15 Vampiric Fortune
+	15 Rebalance
+	7 Bloodite Aswang
+	7 War Haka

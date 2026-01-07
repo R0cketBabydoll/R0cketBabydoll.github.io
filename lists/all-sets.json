@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "DGF",
+            "set_name": "Dragonfall",
+            "formats": "Underdome"
+        },
+        {
             "set_code": "FEW",
             "set_name": "Galbaron: the First Easterwar",
             "formats": "Underdome"
